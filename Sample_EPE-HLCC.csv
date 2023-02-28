@@ -1,0 +1,1089 @@
+﻿conv_id,turn_no,conv_type,speaker,text,emotion,empathy,politeness
+0,0,high_001,T,hey Monica how are you doing today,,highly empathetic,highly polite
+0,1,high_001,C,I'm okay right now but I'm a little anxious because thinking about how Black Friday is soon and my friends want to go to the mall for Black Friday but I really can't go and I want to go but I really to interesting,afraid,,
+0,2,high_001,T,so it sounds like you really want to go to Black Friday with your friends you're feeling a little anxious about it,,non empathetic,highly polite
+0,3,high_001,C,yeah Monaco but interesting but I was thinking about it and maybe if I could make an image or something that I could use while I'm there maybe I'd be able to go so I was wondering if I could give you that very well,hopeful,,
+0,4,high_001,T,that sounds like a great idea can absolutely do that,,low empathetic,low polite
+0,5,high_001,C,okay,angry,,
+0,6,high_001,T,so we have some materials on the table but if you'd like to use anything else that we've used previously just let me know and I'll get them to you for you,,highly empathetic,highly polite
+0,7,high_001,C,um do you have a Sharpie,angry,,
+0,8,high_001,T,it do did you have a color that you wanted,,low empathetic,low polite
+0,9,high_001,C,black maybe,afraid,,
+0,10,high_001,T,all right here,,highly empathetic,impolite
+0,11,high_001,C,this,angry,,
+0,12,high_001,T,welcome,,highly empathetic,low polite
+0,13,high_001,C,ok I think I'm done,content,,
+0,14,high_001,T,all right is there anything you'd like to tell me about it,,non empathetic,highly polite
+0,15,high_001,C,well I'm sure um I drew mountains and lake because when I think about things like Unicom I think of nature so I drew a scene that I think would keep me calm,confident,,
+0,16,high_001,T,so it sounds like nature and mountains are coming to you do you think that this will be helpful I'm black Franny,,non empathetic,highly polite
+0,17,high_001,C,yes as long as I can remember to think about this image when I'm there but maybe I'll bring it with me when I go so I can refer to it when I'm anxious,afraid,,
+0,18,high_001,T,that sounds like a great idea,,highly empathetic,low polite
+1,0,high_002,C,hi there I'm just here to get a refill on my insulin prescription,afraid,,
+1,1,high_002,T,hi my name is Laura I'm the pharmacist let me just look you up in the computer,,highly empathetic,highly polite
+1,2,high_002,C,sure,confident,,
+1,3,high_002,T,your person laughing,,low empathetic,low polite
+1,4,high_002,C,reset feels,confident,,
+1,5,high_002,T,and your date of birth,,low empathetic,impolite
+1,6,high_002,C,April 28 1962,angry,,
+1,7,high_002,T,okay I see that you've filled it here before,,highly empathetic,low polite
+1,8,high_002,C,mm-hmm,angry,,
+1,9,high_002,T,tell me about how you're using the insulin,,non empathetic,low polite
+1,10,high_002,C,okay um so usually at night I'll check my blood sugar and then if it's pretty high like about like 15 or so I'll use it that day so usually end up using it about three or four times a week,afraid,,
+1,11,high_002,T,so you're testing a lot,,non empathetic,low polite
+1,12,high_002,C,mm-hmm,angry,,
+1,13,high_002,T,at least every day,,highly empathetic,impolite
+1,14,high_002,C,yes,surprised,,
+1,15,high_002,T,and then you are using the unplanned when you feel like your blood sugars are running high,,low empathetic,low polite
+1,16,high_002,C,even exactly,angry,,
+1,17,high_002,T,and how do you feel your implants working for that,,highly empathetic,low polite
+1,18,high_002,C,I think it's good because my sugars aren't about 14 every day so it must be working it must work her maybe even a couple of days so it's pretty effective,hopeful,,
+1,19,high_002,T,do you feel like you've seen some real improvements on that,,highly empathetic,low polite
+1,20,high_002,C,yeah definitely,confident,,
+1,21,high_002,T,okay so tell me why you're only using it when your blood sugar goes high,,non empathetic,low polite
+1,22,high_002,C,oh okay yeah so I was supposed to use it everyday at first I think um which I was like the first week that I had it I started injecting everyday I don't carry about a week it's your to hurt when I was inject here so that's when I started doing it less often thinking if I kind of gave this skin a couple days to heal it wouldn't hurt as much by the next time I I gave myself the injection,hopeful,,
+1,23,high_002,T,so you were experiencing some pain who knows what I'd like you to kind of use it a little left off,,highly empathetic,highly polite
+1,24,high_002,C,yeah it hurts a lot when I check,angry,,
+1,25,high_002,T,and you feel like that's really impacting your day,,non empathetic,low polite
+1,26,high_002,C,mm-hmm I do yeah,confident,,
+1,27,high_002,T,okay so sounds like you've seen some improvement your blood Sugar's have been sometimes under control what have you discuss with your doctor recently,,highly empathetic,low polite
+1,28,high_002,C,um why has she haven't seen my doctor since I started the insulin so I guess I haven't told him I'm not using it every day like he wanted I hope you I hope you understand,sad,,
+1,29,high_002,T,well you're here today for the refill and it seems like you're really committed to getting your blood Sugar's under control,,highly empathetic,low polite
+1,30,high_002,C,mm-hmm,angry,,
+1,31,high_002,T,there are some options that we could discuss about how to reduce pain when you inject,,highly empathetic,low polite
+1,32,high_002,C,okay that sounds good,content,,
+1,33,high_002,T,there are also some suggestions that I could make about how to keep your blood Sugar's under control best,,highly empathetic,low polite
+1,34,high_002,C,okay I like below 15,angry,,
+2,0,high_003,T,hi John,,highly empathetic,low polite
+2,1,high_003,C,hi Justin I'm dropping off a new prescription,afraid,,
+2,2,high_003,T,no problem I have this in stock but I do notice that these prescriptions from the hospital can you tell me more about that,,non empathetic,highly polite
+2,3,high_003,C,yeah I was in the hospital for about ten days I had this infection where the fluids are oh I need my refills they didn't give me any new prescriptions in the hospital,angry,,
+2,4,high_003,T,I did have some auto refills for you in the pharmacy unfortunately to return to stock since you weren't able to pick them up but if you give me twenty minutes I can get them all ready for you,,highly empathetic,highly polite
+2,5,high_003,C,I twisted my ankle leaving the apartment this morning it's hurting real bad,angry,,
+2,6,high_003,T,that's terrible John asbestos in your first day coming back from the hospital but I did want to talk to you about one thing the ibuprofen is you're holding especially with your medical condition will have a tendency to reduce blood flow to your kidneys,,non empathetic,highly polite
+2,7,high_003,C,really but they told me I couldn't take Tylenol but I thought that ibuprofen would be okay at the hospital when I first got there they said my kidneys weren't doing too good but when I left they said everything was back to normal,hopeful,,
+2,8,high_003,T,well if you don't mind John if we can go over to the side area and I can discuss with you further kind of see your ankle John,,non empathetic,highly polite
+2,9,high_003,C,sure,confident,,
+2,10,high_003,T,does look swollen does it hurt anymore mark when you move it does,,non empathetic,low polite
+2,11,high_003,C,no it's the same,angry,,
+2,12,high_003,T,I think the best thing for now is to get a cold pack and elevate your ankle to 45 degrees let me grab that for you real quick so this is the instant cold pack so just basically to activate it you just squeeze in place it around your ankle and elevate it to 45 degrees and the reason why I feel more comfortable with this recommendation is because you've told me about your kidney problem in the hospital I really don't feel comfortable with you're using ibuprofen and because if your liver condition the fluid is pooling in your abdomen which is restricting the blood flow to the kidney ibuprofen will further restrict blood flow to the kidney and your blood pressure medication the lisinopril there's normally a very good medication that will further reduce blood flow to the kidney and the total effect of all three of these factors will drastically reduce buffer to the kidney and the kidney failure and that's why I feel more comfortable with the cold pack recommendation and if you have further questions we can talk to your doctor,,non empathetic,highly polite
+2,13,high_003,C,thanks for letting me know about this I certainly don't want to hurt my kidneys I got enough problems,grateful,,
+2,14,high_003,T,that's why we're here and if you want to walk with me back to the pharmacy I can get all your prescriptions rung up for you you,,low empathetic,low polite
+3,0,high_004,C,Welbeck I'm just not sure that I'm ready to quit I just I just don't think I can do this right now,afraid,,
+3,1,high_004,T,so you're really not confident that you'd be successful long-term,,highly empathetic,low polite
+3,2,high_004,C,yeah pretty much,angry,,
+3,3,high_004,T,you know like I know quitting is really hard and it takes a lot of strength to go through that but is it the hardest thing you've ever done,,highly empathetic,low polite
+3,4,high_004,C,what must be because I haven't quite yet,afraid,,
+3,5,high_004,T,well in all seriousness is I know there's other hard things you've been through so if quitting really the toughest thing you've ever done,,low empathetic,low polite
+3,6,high_004,C,no I'm Courtney I mean going to my divorce was difficult,sad,,
+3,7,high_004,T,and you got through it,,highly empathetic,impolite
+3,8,high_004,C,yeah but there was just different circumstances,grateful,,
+3,9,high_004,T,it is a different type of difficulty you're right and I don't want to make light of that but what I'm the point I'm trying to make with you is that it was difficult and you rose to the challenge and you got through it,,highly empathetic,highly polite
+3,10,high_004,C,yeah that's true,sad,,
+3,11,high_004,T,so what I know of you is that when you're faced with a tough challenge like a divorce you rise to the occasion and you manage to get through it and you come out on top so are you ready for the challenge of quitting,,low empathetic,low polite
+3,12,high_004,C,yeah you know I hear what you're saying but you know I just don't want to be a failure I don't want to let people down I don't want to let my family down and I I just don't think I'm ready,sad,,
+3,13,high_004,T,well I do totally respect your decision if you really don't want to quit and you're not open to it then you know that is your choice whatever you choose to do about your smoking habit really is your choice and I do respect that so where do we go from here,,highly empathetic,highly polite
+3,14,high_004,C,well I don't want to quit right now but I know that in the past cutting down has helped me,trusting,,
+3,15,high_004,T,cutting down that would be a great step I mean that would be wonderful so I know you've tried before what else have you learned what other lessons have you learned from quitting I'm guessing you've learned a lot of lessons,,highly empathetic,highly polite
+3,16,high_004,C,well I know in the past the nicotine gum has helped me I just didn't really care for the taste,sad,,
+3,17,high_004,T,well I have some ideas on that if you'd be open to hearing them,,highly empathetic,highly polite
+3,18,high_004,C,sure,confident,,
+3,19,high_004,T,they've got a lot of new flavors on the gum they're cinnamon and orange and juicy fruit which is a popular one and mint and I've had a lot of people have favorable things to say about the new flavors,,non empathetic,low polite
+3,20,high_004,C,that's something I didn't know that so you think you might want to try it again again in addition to cutting back,hopeful,,
+3,21,high_004,T,how about if I cut back for a month and then I'll try the gum,,highly empathetic,low polite
+3,22,high_004,C,I think that is an excellent idea and I think that you really will be able to do it this time,hopeful,,
+3,23,high_004,T,I also,,low empathetic,low polite
+4,0,high_005,T,you Rachel it hurt coming today what brings you in,,highly empathetic,low polite
+4,1,high_005,C,well so I've been working with the weight management clinic and I just when I found out that this was an opportunity I thought why not use this as another resource to help me lose weight,hopeful,,
+4,2,high_005,T,and why why do you want to lose weight,,highly empathetic,low polite
+4,3,high_005,C,well so really recently actually my older sister has had a lot of health concerns relate to her weight and it just sort of jostled me a little bit because we're so similar,afraid,,
+4,4,high_005,T,really related to your sister,,highly empathetic,impolite
+4,5,high_005,C,yeah so I've been this weight for a while but like now I feel like this is really the time for me to start making some changes,hopeful,,
+4,6,high_005,T,what kind of problems sister experience,,highly empathetic,impolite
+4,7,high_005,C,well so she has some high cholesterol and high blood pressure and I guess those are things that were running my family but I'm really worried because my grandmother has suffered from a stroke and I definitely don't want to do that,afraid,,
+4,8,high_005,T,there's big change gears to get healthy,,highly empathetic,low polite
+4,9,high_005,C,yeah I mean another birthday rolled around and I just realized that I'm not getting any younger thank you thank you but yeah so there's some pressure there too,afraid,,
+4,10,high_005,T,so there's been some big things going on your life that's really prompted your push for weight loss so I just want to check it really quick and so on a scale of one to ten with one being really super important and have to do it starting today where are you in turn taken away,,non empathetic,highly polite
+4,11,high_005,C,oh I would definitely say a ten,confident,,
+4,12,high_005,T,okay,,non empathetic,low polite
+4,13,high_005,C,we want right now for me is really really important,hopeful,,
+4,14,high_005,T,and what puts you out of 10,,non empathetic,impolite
+4,15,high_005,C,just kind of all these reminders in the last year and then I'm getting a little bit older all of those things together make it a 10,afraid,,
+4,16,high_005,T,okay bad idea on in that same scale with one being not confident at all to 10 being super super confident where would you say your are in terms of your confidence to actually lose the way,,low empathetic,highly polite
+4,17,high_005,C,Oh honestly I would probably say that I'm like a five or six with confidence,confident,,
+4,18,high_005,T,and what what promise you to pick a five or six,,highly empathetic,impolite
+4,19,high_005,C,I just like been tried to lose weight before and those things certainly have failed as I still I'm the same way,sad,,
+4,20,high_005,T,okay,,non empathetic,low polite
+4,21,high_005,C,that's what really only leaves me at five or six,afraid,,
+4,22,high_005,T,okay so what can we do to get you at say like a nine or ten level of confidence,,low empathetic,low polite
+4,23,high_005,C,I think I would be more confident if I understood like how do you use some of the gym equipment a little bit more so it's not something that I feel really comfortable doing I just don't I know feel very confident when I'm in there except to use the bike and there are elliptical so some of that could be I would really like to do some strength training but I just don't know how,afraid,,
+4,24,high_005,T,okay that sounds really interesting,,non empathetic,low polite
+5,0,high_006,T,hi Andrea thanks for coming in,,highly empathetic,highly polite
+5,1,high_006,C,thank you,grateful,,
+5,2,high_006,T,so I don't know how much you know already about sort of my role here and why you're even here so I thought I'd start by telling you a little bit about myself basically my job is to meet with all of the students I meet with everybody about once or twice a semester and just talk with you a little bit about how things are going different behaviors that you might be engaging in and thinking about any changes you might want to make for your life if you decide that you do it's not my job to change you I couldn't even if I wanted to that's not my role at all it's really to help you think about you know how things are going for you and how you might like making changes or moving forward that sound okay all right so why don't we start by you telling me a little bit about yourself,,highly empathetic,highly polite
+5,3,high_006,C,sure um as you know I'm Andrea I uh I'm a junior I'm in the marching band I played at center sacks I mean yeah I'm also in the little bit of a band geek I play you know the Wind Ensemble and the Jazz Band things like that,confident,,
+5,4,high_006,T,wow you really are involved in music,,highly empathetic,low polite
+5,5,high_006,C,yeah,afraid,,
+5,6,high_006,T,when did you start,,non empathetic,impolite
+5,7,high_006,C,I started playing about 10 years ago actually,confident,,
+5,8,high_006,T,Wow,,highly empathetic,low polite
+5,9,high_006,C,yeah I start on the violin first and then I went on explored a little with the piano clarinet finally found the tenor sax hmm yeah,confident,,
+5,10,high_006,T,very cool I've always wanted to be good at music all right so it sounds like you're in band and a few other musical ensembles any other hobbies you have or things you like to do for fun,,highly empathetic,highly polite
+5,11,high_006,C,um you know just hanging out with my friends or go to the beach things like that,content,,
+5,12,high_006,T,it's kind of everyday sort of thing okay tell me a little bit about your family,,highly empathetic,low polite
+5,13,high_006,C,uh well I have one older brother he's about eight and a half old years older than me my parents and I have dog,sad,,
+5,14,high_006,T,cute what kind of dogs,,highly empathetic,impolite
+5,15,high_006,C,the golden retriever,sentimental,,
+5,16,high_006,T,oh nice,,highly empathetic,low polite
+5,17,high_006,C,I'm a big boy,confident,,
+5,18,high_006,T,very fun all right and how are things going in school for you,,highly empathetic,low polite
+5,19,high_006,C,pretty good grades have been pretty all right still like 3.7 ish,content,,
+5,20,high_006,T,okay great so you're doing well what sorts of goals do you have for after college or after high school,,highly empathetic,highly polite
+5,21,high_006,C,I'd like to you know I'd like to of course graduate high school hopefully go to a nice Ivy League school or I mean that might not happen and then I'd like to go on become a doctor study psychology you need to come a psychiatrist or something,hopeful,,
+5,22,high_006,T,okay you have some pretty big dreams,,highly empathetic,low polite
+5,23,high_006,C,yeah,afraid,,
+5,24,high_006,T,it's great that's really exciting to think about that and he's going to be looking forward to the future and those things all right well one thing I'm going to ask you about is um you know different people have sort of different things that they really value in their life whether it's you know their cultural identity or their family or their friends or job or hobbies things like that so here's a little sheet that goes through just some basic values that might be more or less important to certain people like belonging or sense of community again cultural identity or family friendship modesty religion respect self-determination and spirituality so when you think about yourself which of these are kind of most important to you in terms of your life,,highly empathetic,highly polite
+5,25,high_006,C,um I think a sense of community and belonging,sentimental,,
+5,26,high_006,T,okay,,non empathetic,low polite
+5,27,high_006,C,I think those two and um respect respect,trusting,,
+5,28,high_006,T,okay can you tell me a little bit about why you picked those three,,non empathetic,low polite
+5,29,high_006,C,yeah well I think the community belonging I kind of related them um you know how I said I was in the marching band I really you know I really enjoyed being in like that team setting of you know being with other people and all working to work together towards that one goal,trusting,,
+5,30,high_006,T,mm-hmm,,non empathetic,impolite
+5,31,high_006,C,and then in terms of respect I I kind of view that as one of like my major like rules like I I really do think respect is important to respect myself or respect those around me so,trusting,,
+5,32,high_006,T,okay,,non empathetic,low polite
+5,33,high_006,C,I place great importance in that,trusting,,
+5,34,high_006,T,okay great so sort of being a part of a group and being a part of a team gives you a sense of belonging like you said a sense of purpose anyway and then the respect is really sort of all-encompassing it's not just Authority but respecting yourself respecting your teammates or your bandmates and other people around you okay that's great all right well one of the things I want to talk to you about sort of relates to belonging and your friends so what kinds of things do you like to do when you get together with your friends,,highly empathetic,highly polite
+5,35,high_006,C,um sometimes if you just you know go to the movies go to the beach like I had said or sometimes we just get together someone's house play some board games and hang out,content,,
+5,36,high_006,T,mm-hmm and when you're hanging out with friends is there ever alcohol involved,,low empathetic,low polite
+5,37,high_006,C,yeah sometimes,angry,,
+5,38,high_006,T,okay can you tell me a little bit about how alcohol fits into sort of your social scene,,non empathetic,low polite
+5,39,high_006,C,uh well it's mostly just for for parties or party settings it's kind of to get things going and got everything loosened up as they say,confident,,
+5,40,high_006,T,mm-hmm and so when you go to parties most of the time there's alcohol there okay and how often do you think you would say you're drinking,,low empathetic,low polite
+5,41,high_006,C,I'd say um on a not busy month for instance I'd say about like two weekends out of the month two three,angry,,
+5,42,high_006,T,mm-hmm so about half the time you're drinking and half the time you're not can you tell me what's different about the days when you choose to drink versus not to drink,,highly empathetic,highly polite
+5,43,high_006,C,the days that we drink are mostly like I said they're parties so it's more of that whole partying and dancing and you know having everyone have fun and then when we don't it's a lot more relaxed it's a lot more hanging out playing board games watching a movie it's not yeah,content,,
+5,44,high_006,T,so it really depends on what the activity is whether or not alcohols get,,non empathetic,low polite
+5,45,high_006,C,definitely,confident,,
+5,46,high_006,T,okay and do you notice a big difference or can you tell me about the difference in your enjoyment level at say a party versus and that you're playing board games,,highly empathetic,highly polite
+5,47,high_006,C,I think of them as as different I think you know like in playing board games and things it's meant to be relaxing so it's nice to have like that kind of breather versus with a party it's a lot more energetic it's a after at all it's very draining,content,,
+5,48,high_006,T,mm-hmm,,non empathetic,impolite
+5,49,high_006,C,but in the moment it's quite fun to dance and have,content,,
+5,50,high_006,T,okay so there's sort of pros and cons,,non empathetic,low polite
+5,51,high_006,C,oh yeah,surprised,,
+5,52,high_006,T,okay what are the things that you like about drinking or like about alcohol,,non empathetic,low polite
+5,53,high_006,C,um it's you know when we drink we we tend to have more fun because I guess we're not you know everyone's drinking together we're a lot more loosened up and relaxed and not really thinking about stresses or things like that but it can be when it's too much drinking it can be can be obviously bad,content,,
+5,54,high_006,T,okay so sort of in the the too much drinking or our times can you tell me some of the less good things or not so good things about alcohol,,non empathetic,highly polite
+5,55,high_006,C,um a lot of times it will make make people stupid yeah you know people make dumb decisions and things like that we we usually try to be as safe about it as possible so like sleepover friends house and so you know we're not driving and it's mostly within our friend group so we're not worried about strangers putting weird things in our drinks but um definitely some of the ideas people can have when they're stupid when they're drunk can can be really stupid,afraid,,
+5,56,high_006,T,hmm so you're trying to like you said not engage in really dangerous activities you're trying to stay put you're not driving you're trying to stay with people that you trust but yet it sounds like there's still some some things happening,,highly empathetic,highly polite
+5,57,high_006,C,sometimes yeah,sad,,
+5,58,high_006,T,can you tell me a little bit about that,,non empathetic,low polite
+5,59,high_006,C,well I especially don't like it whenever me or one of my friends like we drink too much and we hadn't up like throwing up and things like that that I don't that's not fun,angry,,
+5,60,high_006,T,yeah throwing up is never fun it's not and how often do you think that happened,,non empathetic,low polite
+5,61,high_006,C,for me that's happened to me once it was the first time I ever drank and it was it was a lot and you know what I was doing I was mixing all kinds of weird things I'm just kind of taking anything ever anyone gave me and that didn't end well but after that I have it but I do have friends that that still do sometimes so I'll end up like having to take care of them or something and,sad,,
+5,62,high_006,T,okay,,non empathetic,low polite
+5,63,high_006,C,it kind of put it down around my my fun,sad,,
+5,64,high_006,T,huh okay so on the one side some of the fun things associated with alcohol are people are just more relaxed sort of carefree and kind of let loose a little bit more on the other hand there's a little bit more I guess planning involved because you have to make sure that you're doing it safely or as safe as you can and then there can be some other consequences like throwing up or even if it's not you that sometimes you're stuck your your fun is sort of ruined when you're stuck dealing with a friend you drink too much okay any other not-so-good things about the alcohol,,low empathetic,highly polite
+5,65,high_006,C,yeah people can get a little like sloppy I guess like they're all loose like with people and corners doing things that should be done in private and that kind of stuff,sad,,
+5,66,high_006,T,so you're kind of stuck being exposed to things you don't mean busy,,non empathetic,low polite
+5,67,high_006,C,yeah,afraid,,
+5,68,high_006,T,got it okay all right well you mentioned a couple times that you've made a few decisions to try and limit the a dangerous aspect of the drinking why did you make those decisions,,low empathetic,low polite
+5,69,high_006,C,I just I you know have an aunt who is an alcoholic so I I see like the issues that are involved and I've seen movies and things I know that drunk driving is an issue so I you know I want to be as safe as possible in those terms and be in a setting where like we can let loose but still be safe like I someone's house or someone's parents home or something but so I like I know that there are dangers involved and I guess I want to limit that and still be able to have fun,afraid,,
+5,70,high_006,T,okay yeah it sounds kind of similar to your your value of respect too so on the one hand you the drinking maybe helps with the belonging community to start if there's too much then,,highly empathetic,highly polite
+5,71,high_006,C,it sort of defeats the purpose,sad,,
+5,72,high_006,T,right and then with the respect one of the things you mentioned is really wanting to respect yourself and not sort of cross boundaries not sort of cross lines how do you think that the drinking fits in with that,,highly empathetic,highly polite
+5,73,high_006,C,in terms of what in terms of respect I think well in a way I do think that drinking is probably a form of disrespect to my own body because I'm not putting things I'm putting things in it that shouldn't be there and then but in terms of hot ways I am respecting myself I am I'm respecting myself by like trying to stay in someone's house and like trying to limit my drinking so I don't get to that blacked out like throwing up and everything and try to you know let loose but still be in control of my behavior so I'm not going to go with some random person I met in - I don't know where to do I don't know what and things like that,trusting,,
+5,74,high_006,T,okay so you're sort of looking for that balance yeah how much you can drink to have some of the positive benefit but about crossover okay and what have you come up with it at this point do you have sort of a limit that you stick to or,,non empathetic,low polite
+5,75,high_006,C,usually well I start off by make sure that I make my own drink so I know what's in it how much is in it so that way I control how much I drink so I'll usually just you know get one of those cups and then make one drink and then I'll try to make it last as long as possible and I'll be like all right this is my one drink and I'm good in that way I still have something in my cup some people aren't going to be like oh here have some more like no I'm good I have mine and I'll still be you know having some to like let loose a little,confident,,
+5,76,high_006,T,mm-hmm and do you feel like that's working pretty well for you or you sometimes exceed that limit or or what do you think,,low empathetic,low polite
+5,77,high_006,C,for the most part it works pretty well because like I said people you know people come asking me trying to pressure me I'll be like no I'm good I have you know I still have so I'm like I'll get some later and then never end up getting anything but sometimes they'll be like hey let's take a shot and everyone's got it around like the kitchen or something ready to take a shot and then at that point I'll be like oh well maybe I can take one more and that's when I start you know falling into,confident,,
+5,78,high_006,T,okay,,non empathetic,low polite
+5,79,high_006,C,too much,sad,,
+5,80,high_006,T,so a portion of the time it's working well for you and another portion of the time maybe you like,,low empathetic,low polite
+5,81,high_006,C,I'd,sad,,
+5,82,high_006,T,like to make some adjustments to to make it a little smoother okay so kind of thinking along those lines how important is it to you to make some changes or make some adjustments to your drinking to sort of fit with your values and your goals for yourself,,highly empathetic,highly polite
+5,83,high_006,C,um I'd like to make sure that I you know in terms of respecting myself of my body I'd like to you know try to drink less,trusting,,
+5,84,high_006,T,okay,,non empathetic,low polite
+5,85,high_006,T,like I you know it is nice to let loose and have fun but I'd also like it to be so you know I'm not damaging my body and I like my liver doesn't work by the time I'm like 22,,non empathetic,highly polite
+5,86,high_006,T,mm-hmm,,non empathetic,impolite
+5,87,high_006,C,and um you know have my friends on board with a similar mentality so we can kind of work at it together as a group as a community,trusting,,
+5,88,high_006,T,uh-huh so kind of combined he has goals okay so you're you have a goal it sounds like of actually cutting back on your drinking how important is it to you to work on that goal on on the scale of one to ten where one is not at all important antennas it's the most important thing right now,,highly empathetic,low polite
+5,89,high_006,C,I'd say about like like a six or a seven oh I like to work on it but you know if I get around to it I get around to if I don't I don't,hopeful,,
+5,90,high_006,T,uh-huh well why did you say six or seven rather than like a four,,low empathetic,low polite
+5,91,high_006,C,um because I still think it's it's important,hopeful,,
+5,92,high_006,T,uh-huh,,non empathetic,impolite
+5,93,high_006,C,I still you know like I said I don't want my body tried specially going to my school like I know how things affect your body and also affect your your social and your schoolwork and things like that I know that once I get to college it's not it's not gonna gonna work out being you know drinking every weekend and I'm like trying to wake up early and go to school take an exam I know that's not that's not feasible it's not a good idea,afraid,,
+5,94,high_006,T,yeah looking ahead you can't keep drinking this way and reach the goals that you have for years now okay well how confident are you that you could cut down if you wanted to,,low empathetic,highly polite
+5,95,high_006,C,I think,hopeful,,
+5,96,high_006,T,on that same scale from one to ten,,highly empathetic,impolite
+5,97,high_006,C,I think if I made the decision I was going to for sure then I think definitely like a ten I know I,confident,,
+5,98,high_006,T,oh wow okay why did you say ten,,low empathetic,low polite
+5,99,high_006,C,it's just because I know that once I make the decision I know I can making the decision in the first place okay weather,confident,,
+5,100,high_006,T,okay and so you mentioned you know quite a few reasons why you would like to cut down have you thought at all about how you might go about doing that,,highly empathetic,highly polite
+5,101,high_006,C,um I'm thinking of maybe like trying to convince my friends without sounding you know dorky or something be like hey you know let's just stay in today like let's not go out or something or just be like hey I'm not like I'm not going to drink today and even if my friends do like being okay with them drinking around me not doing it and then then being okay with me drinking me not drinking and them doing whatever they want,trusting,,
+5,102,high_006,T,so sort of trying to plan more activities that don't involve alcohol and then also trying to participate in activities without drinking yourself or maybe even drinking less than you're drinking okay does that sound like a goal you want to work on now or,,highly empathetic,low polite
+5,103,high_006,C,I think so I think it's it's very feasible I think it's possible,hopeful,,
+5,104,high_006,T,okay um so I guess we'll talk about less alcohol activities and just making some notes to myself and then maybe I'm reducing the amount of drinking that you're doing if alcohol is involved okay so that's that goal sounds feasible you said would it be okay if we met in a couple weeks to sort of see how it's going,,highly empathetic,highly polite
+5,105,high_006,C,I think so that's good,hopeful,,
+5,106,high_006,T,does that sound like something you'd like to do okay well I really appreciate you spending the time talking to me and you know it sounds like you have a lot of really good goals for yourself really ambitious goals and going to medical school and you know becoming a psychiatrist or some some other form of physician you're really looking forward to doing well in school so you can get there and it sounds like you have a pretty active social life and a lot of friends who you feel probably would be supportive even if you cut down on alcohol and that you know there's a lot of benefits you see both to your body and your health you school performance and even some of the social stuff in terms of feeling a sense of belonging without having to deal with some of the gross consequences of drinking too much so yeah you know it really sounds to me like you have a good plan in place and as long as you're willing and interested in meeting again and be very excited to be able to talk with you about how it's going,,highly empathetic,highly polite
+5,107,high_006,C,I'd like to,hopeful,,
+5,108,high_006,T,alright great so I'll plan to see you then in a few more weeks,,highly empathetic,highly polite
+5,109,high_006,C,Thanks,grateful,,
+6,0,high_007,T,hi Lucy nice to see you today how you been going,,highly empathetic,highly polite
+6,1,high_007,C,yeah well thanks,grateful,,
+6,2,high_007,T,great I'm just fully get started has anything changed with your medical history since I last saw you like any new medications or serious operations,,non empathetic,highly polite
+6,3,high_007,C,No,angry,,
+6,4,high_007,T,great and is anything maybe worrying you about your teeth or your gums today,,non empathetic,highly polite
+6,5,high_007,C,I think I might have a hole in my tooth,afraid,,
+6,6,high_007,T,oh no what makes you say that,,non empathetic,low polite
+6,7,high_007,C,I can feel it with my tongue and it's a bit sensitive,afraid,,
+6,8,high_007,T,mmm well let's lie you back I'll pop some gloves on and we'll have a little look Lucy it definitely looks like you need a filling um I'd love to help you figure out why you've got this new hole in your tooth do you mind if I ask you a few questions so we can try and figure it out,,highly empathetic,highly polite
+6,9,high_007,C,Yeah of course,sad,,
+6,10,high_007,T,great well here's a risk assessment form it's just a few questions that might help us figure out what the problem might be,,highly empathetic,highly polite
+6,11,high_007,T,great yeah it says here that you're drinking soft drinks in between meals what do you know about the effect of soft drinks on your teeth,,non empathetic,highly polite
+6,12,high_007,C,I know it's not good for them,sad,,
+6,13,high_007,T,that's right um the bacteria in your mouth can use the soft drink to create acid that eats into the tooth surface and causes the holes the more that your teeth are coated in the sugar the more likely it is that you'll develop a hole did you know the one can of soft drink can have 10 teaspoons of sugar in it,,non empathetic,highly polite
+6,14,high_007,C,I didn't know that so I shouldn't have soft drinks at all I'm not sure I could do that,sad,,
+6,15,high_007,T,yeah I understand it does sound like you're worried about getting holes in your teeth though there are a few options that you can do to help improve how you consume sugar would you like to hear about those,,highly empathetic,highly polite
+6,16,high_007,C,well I don't like getting feelings so that would be great,hopeful,,
+6,17,high_007,T,yeah probably drinking soft drink you could try drinking it all in one go instead of sipping on it or you could try drinking just at mealtimes instead of in between meals so does either of those sound like they might work for you,,highly empathetic,highly polite
+6,18,high_007,C,yeah I mainly sort of drink soft drinks in between meals though maybe I could just have them with lunch and dinner,sad,,
+6,19,high_007,T,great I'm in Romania to get a break from the sugar I sort of on a scale of 1 to 10 with 10 being the most how motivated do you feel you are to make this change,,highly empathetic,highly polite
+6,20,high_007,C,I don't like getting feelings so an 8 or a 9,afraid,,
+6,21,high_007,T,great and you maybe have any ideas that you could implement to help you avoid having soft drinks in between meals,,highly empathetic,highly polite
+6,22,high_007,C,I could carry a water bottle around with me,confident,,
+6,23,high_007,T,great that's a really good strategy and waters great for you too umm you can also try chewing sugar-free gum I mean is that something you're interested in,,highly empathetic,highly polite
+6,24,high_007,C,I might give the water bottle a try first,hopeful,,
+6,25,high_007,T,okay cool well look I'll put a little note in your file and the next time I see you if it's okay I'll check how you're going with avoiding soft drinks between meals,,highly empathetic,highly polite
+6,26,high_007,C,yeah that'd be fun and hopefully I won't have any holes next time,hopeful,,
+7,0,high_008,T,so Jane it sounds like you're angry with your supervisor would what would I be right in saying that,,low empathetic,highly polite
+7,1,high_008,C,well I think I'm pretty angry,angry,,
+7,2,high_008,T,all right look maybe to help me understand you know more about that anger I'm wondering if you could you know choose two or three pictures here that look like how you were angry at the time which which of the cards here that would show how angry you were okay don't I might just take a look at those okay it does look like anger doesn't it it's a pretty big anger so after you'd had that you know a big thing with your mum you you went to your room right,,non empathetic,highly polite
+7,3,high_008,C,well she got really angry at me because on the way to my room my idiot sister got in the way so I pushed her out of the way she's just annoying so then I went into my room the only place that I really feel safe slammed the door and then mums favorite picture fell on the floor,sad,,
+7,4,high_008,T,thank you for sharing that with me because it really and being for being so honest about your anger because what it does is help I don't know if it's helping you but it's certainly helping me to understand that this is really big for you and it's a big expression but surprisingly you know anger anger's a good thing in a way because it's it's letting you know that something wasn't right and wasn't fair that he he just did change the thing without your permission without you knowing so in some ways you had a right to be angry but what happens what I heard you saying in as you were telling me what happened next what happened next was that your anger took charge and he it did more than what it's meant to do your your anger is just just to let you know that you're angry okay but what it did what I feel it did it just pushed you out of the road and said I'm I'm taking control here so Jane when you were angry did you feel it anywhere in your body,,non empathetic,highly polite
+7,5,high_008,C,well my neck is really sore and its really paining and and my shoulders I just it's really like it's it just feels like I've been I've been hit by something,angry,,
+7,6,high_008,T,the end of the day that that pushing your sister over and yelling at your mum did,,non empathetic,low polite
+7,7,high_008,C,it's made it worse yeah,angry,,
+7,8,high_008,T,yes which is hard to see at the time I I do understand that but what I'm thinking is that if sometimes if we tell our anger look thank you you've done a good job it doesn't have to get so angry then because you you know you you're telling it that it's thank you you've done a good job you've let me know I'm angry now I'm going to deal with it from here,,highly empathetic,highly polite
+7,9,high_008,C,you have to help me with that a bit i think,grateful,,
+7,10,high_008,T,we will,,highly empathetic,impolite
+8,0,high_009,T,hi I'm Amy the pharmacist so I understand you have some questions,,highly empathetic,highly polite
+8,1,high_009,C,hi I'm Mario and my doctor suggested I talked to a pharmacist about quitting smoking do you have the time for this,afraid,,
+8,2,high_009,T,sure why don't you tell me a little bit about what you're thinking how soon you'd like to quit and why you want to quit,,non empathetic,highly polite
+8,3,high_009,C,my cholesterol and my blood pressure are high my father and my uncle both had heart attacks when they were pretty young so my doctor's been telling me that if I quit I'll cut down on my chances of having a heart attack,hopeful,,
+8,4,high_009,T,that's correct quitting would be important for you and it will reduce your chances of having heart problems,,highly empathetic,low polite
+8,5,high_009,C,so that's the situation I've tried to quit a couple of times before but it didn't work so what I was hoping is that you could go over the different options and help me pick the best one,hopeful,,
+8,6,high_009,T,hmm I'd be happy to do that first tell me exactly which products you used and more importantly how you use them,,highly empathetic,highly polite
+8,7,high_009,C,first I tried the gum I like to chew gum so I thought this would be good so I chewed about three to four pieces of gum a day but I was miserable and I started smoking after four days then I tried the patch a couple of months later I felt pretty good for about a week so I quit using it didn't think I needed it anymore started smoking two days later,sad,,
+8,8,high_009,T,based on what you've told me it sounds like you didn't get the full benefit of the product a few pieces of gum won't get enough nicotine into your body to make you comfortable you need at least nine pieces a day for it to be effective and it has to be used in a very specific way not chewed like regular chewing gum,,non empathetic,low polite
+8,9,high_009,C,I admit I didn't read the directions last time,sad,,
+8,10,high_009,T,as for the patch sounds like it worked for you you just didn't stay on it long enough we recommend 10 to 12 weeks and this gets enough nicotine into your body to help reduce most of the withdrawal symptoms while you work on learning to live your life without cigarettes you were able to quit for a week with it so it seems like it might be a good choice now but there are others as well,,highly empathetic,highly polite
+8,11,high_009,C,yeah my doctor said something about a pill I didn't like the taste of the gum much,afraid,,
+8,12,high_009,T,well that's understandable but you should know there are new flavors that my patients say tastes better to be honest all the medications are effective it's just a matter of what you prefer you've already tried the patch there's also a nicotine lozenge a nasal spray an oral inhaler in tablet form we have bupropion which you've probably heard called zyban and there's a newer medication varenicline or chantix,,highly empathetic,highly polite
+8,13,high_009,C,yeah I've heard of those but I think I'd rather stick with the patch and this time I'm gonna make sure I keep it on long enough it,trusting,,
+8,14,high_009,T,sounds like a good choice for you and given that you have some experience with it and you know that it works for you um how many cigarettes do you smoke a day,,low empathetic,highly polite
+8,15,high_009,C,about a pack a day,sad,,
+8,16,high_009,T,okay so you'll want to start with the 21 milligram patch for six weeks and then the 14 milligram patch for two weeks and then the seven milligram patch for the last two weeks it's pretty easy to use in the morning of your quit day I want you to put one patch on a hairless part of your upper body and leave it on for 24 hours and the next morning you take that off you put another patch on in a different location you want to switch site so you don't get any skin irritation if you have trouble sleeping you can take it off before you go to bed you read the directions on the box and if you have any questions let me know,,non empathetic,low polite
+8,17,high_009,C,okay I'm gonna try it again and read the directions and stick with it this time,trusting,,
+8,18,high_009,T,one more thing there are two parts to smoking so there are two parts to quitting it's an addiction to nicotine and a habit the patch will take care of the physical addiction and help with the withdrawal symptoms but you'll have to make changes in your behavior if you want to stay quit for good,,highly empathetic,low polite
+8,19,high_009,C,yeah dr. Ward mentioned that to me and he gave me the card for this quitting line,grateful,,
+8,20,high_009,T,that's perfect our stay quit line is excellent and convenient so let's talk about picking a quit date and we'll get you set up with a box of patches,,low empathetic,highly polite
+9,0,high_010,T,I can I help you,,highly empathetic,highly polite
+9,1,high_010,C,yeah I hope so um my workplace is just gone smoke-free hey I'm not not very happy about it I'm going to keep smoking but I was worrying if there's anything that can help be like get through the day it's like you know go get my beer and smoke cigarettes after work,afraid,,
+9,2,high_010,T,so your workplace just went smoke free you're not too pleased huh,,non empathetic,highly polite
+9,3,high_010,C,no I'm not going to quit smoking oh my god I like it it helps me relax so I mean I don't see what the big deal is,content,,
+9,4,high_010,T,okay tell me a little bit about how smoking fits in your day it'll help with the,,non empathetic,low polite
+9,5,high_010,C,I mean I suppose a little less than a pack a day it's not too bad um the I probably smoked for the last five years but I I mean I could quit if I wanted to but I don't really want to right now,afraid,,
+9,6,high_010,T,okay so you feel like right now smoking is a pretty important part of your life it's not something you're ready to change but if the time came when you did decide to quit you feel pretty confident that you could go ahead and do that,,low empathetic,low polite
+9,7,high_010,C,sure I can quit,confident,,
+9,8,high_010,T,okay what makes you so confident,,low empathetic,low polite
+9,9,high_010,C,well I mean I don't see why I couldn't although I have not ever tried to quit I mean it's just something that I do for fun you know I'm breaks at work in the morning and have to work,sad,,
+9,10,high_010,T,mm-hmm and so in terms of a readiness to actually go ahead and make a quit attempt where do you think you fall on the scale of one to ten where one is I'm not considering it at all and ten is I'm definitely ready I want to quit,,low empathetic,low polite
+9,11,high_010,C,I am probably - I haven't even thought about quitting and until this great announcement at work today I've been totally not gonna quit smoking,sad,,
+9,12,high_010,T,okay what made you say two instead of one,,low empathetic,low polite
+9,13,high_010,C,well I mean anything's possible I mean I I guess I could maybe be convinced yeah is there something I mean I are there things I can try that would make me like want to quit smoking,hopeful,,
+9,14,high_010,T,well there are a lot of products available now that can actually help you curb that urge to smoke we have products that can help to replace nicotine which can help to decrease withdrawal symptoms that you might experience when quitting or cutting down and also some medications that your doctor could prescribe for you that might take away even some of the desire to smoke,,highly empathetic,highly polite
+9,15,high_010,C,okay well that's good information I mean I'm not gonna do anything today I just need to know my options but that's encouraging if I decided to quit smoking I do have have at least tools to help me quit,hopeful,,
+9,16,high_010,T,sure and back to that skill you mentioned you said you're a - what do you think it would take to move you up to a four or five,,low empathetic,low polite
+9,17,high_010,C,I don't know I guess if my friends like if one of my friends decided like quit with me that would probably help too but I all my friends love to smoke so I don't see that happening in the near future,hopeful,,
+9,18,high_010,T,sure I wonder if now that your workplace is going smoke-free if there will be some people at work who are planning to quit,,non empathetic,highly polite
+9,19,high_010,C,that's a good point I hadn't really thought about that that's a good idea,hopeful,,
+9,20,high_010,T,okay well it sounds like you're really here just for information today I'm happy to help you pick out some of these products if and when you decide that the time is right for you,,highly empathetic,highly polite
+9,21,high_010,C,okay well thanks a lot,grateful,,
+10,0,high_011,T,hi I'm Andrea,,highly empathetic,highly polite
+10,1,high_011,C,until nice to meet you,surprised,,
+10,2,high_011,T,nice to meet you so what brings you here today,,highly empathetic,highly polite
+10,3,high_011,C,well I just been feeling really stressed out lately because it's coming to the holidays and my teachers have decided to lower the class with everything these next couple weeks so it is overwhelmed with it all I had I have like feel like I have so much stuff to do and what are those personalities like for crafting a variant I can't with what I have to do and I wanted to well but I trust I'll be doing that and have the holidays I'm trying to prepare to my home Thanksgiving lots of stuff going on then and then boy is coming to visit me for Christmas,confident,,
+10,4,high_011,T,that's nice so hearing me say is that you're stressed with all this going on at school and preparing for the holidays that's that big it's really a lot on your plate,,non empathetic,highly polite
+10,5,high_011,C,it's like if it was just the work if you find that I'm stressed about that too and I'm worried about me even think oh it sounds kind of silly but you know your boyfriend coming home for Christmas is kind of a big deal,afraid,,
+10,6,high_011,T,for sure,,low empathetic,low polite
+10,7,high_011,C,and it's like I wanted to like my family but I I'm not excited you didn't put him to be bored you know I mean that's I shouldn't even be in my mind you know I should be totally focused on school right now it's just,sad,,
+10,8,high_011,T,so do you feel like you but obviously we're this far on this semester how well do you think you've done well thus far,,low empathetic,highly polite
+10,9,high_011,C,yeah actually I've been doing a lot better in this semester and I think that because of it I wanted to want to keep to move on I want to get I like I'm over a cheer instance I like skip good grades but that makes the procrastination like I'm really good at working under pressure but I can't work under pressure with this up because if I don't start doing in advance I won't get it done and I'm trying to figure out how to just balance to you,sad,,
+10,10,high_011,T,do you think if you do what are some options that you see you may have preparing yourself to get the assignments done,,highly empathetic,low polite
+10,11,high_011,C,oh I guess just I've considered you know being very turning off all of my electronics of when my computer I'll need it to do the whole market and doing like a to-do list and just really disciplining myself that you know I have to do it but as soon as I get my computer and like Facebook and gave you the things that distract me I keep finding myself putting it up and putting it off,sad,,
+10,12,high_011,T,have you tried anything that might have works in past -,,highly empathetic,low polite
+10,13,high_011,C,well we recently had fire home and we did the whole fascinating and I fasted like my computer completely I was a lot more with internet at all and to really do anything with electronics and I think that just having that goal in my mind and because it was forgotten I was able to really just not do it and I did so much homework during that week that I've ever done so maybe just really sitting at one with God could help me to better I should I should do it it's just so much easier said than done you know because we're college students who want to go have fun and we wanted to be with our friends but I mean I've had to cancel all my plans and this is why purple holidays at lunch sometime a benefit just frustrating me the teachers you know I mean I know that they did all something followed but there's just so much to do,trusting,,
+10,14,high_011,T,it's overwhelming that getting all your stuff inside working out strategies,,non empathetic,low polite
+10,15,high_011,C,I think that you know girls are always overachievers and we can't just chill and like even my fans always like why don't you just relax they're plump up your deal but I'm trying to think that but I don't like it's a big deal school some things ago because I'm not really talented with my music okay dance or any of those things but so many people are into it so school is like my gift I do good and I understand it so to not feel secure and that is kind of,confident,,
+10,16,high_011,T,so you put a lot of pressure on yourself when I hear saying it's cool because you like that -,,low empathetic,low polite
+10,17,high_011,C,hey I guess it is a lot of pressure I mean I remember in high school my brother was like the good pop and he's older than me he would come back with bad grades and I would come off straight A's I'm so excited you know tell me about your day Ethan Anthony was just like give him all these pitches he did so bad the whole time I always wanted to shine [Music] maybe I do need to just relax and know that the day-to-day thing,confident,,
+10,18,high_011,T,do you feel like you've done involve thus far the semester your classes,,low empathetic,low polite
+10,19,high_011,C,I think I've got some of my closest I'm not sharing because we don't really get product reports in them but both classes I do you know yeah I'm doing well and but you know there's so much riding on these next few weeks I don't do well on these assignments like it could totally mess up all that work so,confident,,
+10,20,high_011,T,so your primary concern really is for the speak you have to get done this week I remember me just said earlier about creating possibly the creating the to-do list or do you think do you think those things that you mentioned earlier would be good,,non empathetic,highly polite
+10,21,high_011,C,probably just do it talk about it but I guess it's just nice to know that,content,,
+10,22,high_011,T,completion with that and going the holiday do you feel like when you do how do you feel stressful week,,non empathetic,highly polite
+10,23,high_011,C,toy was always really really relaxing so I think that'll be good it's kind of like a reward for getting through it but then I have I mean these goodies won't need a week and I feel like we'll be doing a lot in preparation for my boyfriend coming for Christmas so it won't be everlasting back for three more weeks of school and then like columns here and no it's like breach I mean it should be,afraid,,
+10,24,high_011,T,so it seems like you have a lot going on this week but you seem motivated and now to complete it and you have the break to look forward to but you said it so that sounds like you you're almost there you're going to make it so it's good hearing from you [Music],,highly empathetic,highly polite
+11,0,high_012,C,I pick up a prescription,afraid,,
+11,1,high_012,T,okay and what's your name,,non empathetic,low polite
+11,2,high_012,C,seedorf Larry seed or,hopeful,,
+11,3,high_012,T,hi mr. seed or if my name is Dave it's nice to meet you I'm your pharmacist here today,,highly empathetic,highly polite
+11,4,high_012,C,okay,angry,,
+11,5,high_012,T,are you picking up for yourself today or for somebody else,,highly empathetic,low polite
+11,6,high_012,C,yes for me,hopeful,,
+11,7,high_012,T,for you great I see you have a new prescription here so what I'd like to do is take about five minutes just go over some key points about this medication how to take it and answer any questions that you might have so you're feeling comfortable with this medication that's not alright,,highly empathetic,highly polite
+11,8,high_012,C,yeah,afraid,,
+11,9,high_012,T,I want you have a seat here sure so to start off I'm just going to verify your information real quick so we said your name's Larry seedorf is your date of birth let's see,,highly empathetic,low polite
+11,10,high_012,C,129 68 okay,angry,,
+11,11,high_012,T,and it looks like are you still on same address as before,,non empathetic,low polite
+11,12,high_012,C,yeah I'm pinnacle,confident,,
+11,13,high_012,T,pinnacle okay and I have here according your profile that you have a sensitivity of statins which is the type of medications is that correct,,non empathetic,low polite
+11,14,high_012,C,yeah,afraid,,
+11,15,high_012,T,okay and according to your profile it looks like you're taking likes in Aprill hydrochlorothiazide and simvastatin which is one of those medications,,non empathetic,low polite
+11,16,high_012,C,yeah I'm not taking this instead,sad,,
+11,17,high_012,T,not taking any more okay great no problem then what happened when you took the statin,,low empathetic,highly polite
+11,18,high_012,C,uh you know I started to get a really bad pain in my legs and that's what led me to go to the doctor you ran tests and that's when he said I had sensitivity to it,afraid,,
+11,19,high_012,T,okay well hopefully you won't have any issues like that with this one I'll be sure to go over this with you okay,,low empathetic,highly polite
+11,20,high_012,C,okay,angry,,
+11,21,high_012,T,so the name of this medication is gem fib Raziel it's the generic for low pay,,low empathetic,low polite
+11,22,high_012,C,okay,angry,,
+11,23,high_012,T,now before I go into more detail about this medication what concerns do you have that you'd like me to address with you here today,,non empathetic,highly polite
+11,24,high_012,C,honestly the the pain in my legs I'm a landscaper so it made it so that I couldn't work so I mean that's my biggest concern the doctor said you know that it would help to be on this and,afraid,,
+11,25,high_012,T,certainly I understand that and hopefully you won't have the same issues with this one I will talk about that before I get to that though what did your doctor say this medication is used for,,highly empathetic,highly polite
+11,26,high_012,C,lower cholesterol you know something about triglycerides,confident,,
+11,27,high_012,T,we see this a lot with lowering cholesterol especially triglycerides which are a type of cholesterol,,non empathetic,low polite
+11,28,high_012,C,okay,angry,,
+11,29,high_012,T,now how did your doctor tell you that you're going to use this medication,,non empathetic,low polite
+11,30,high_012,C,twice a day,angry,,
+11,31,high_012,T,twice a day so you'll take one tablet which is 600 milligrams and just like it says on here it's actually two tablets so you'll be taking a total of 1200 milligrams and you'll be doing that by mouth twice a day so the best time to take it is about a half hour before breakfast and then again a half hour before dinner if you can remember that,,non empathetic,low polite
+11,32,high_012,C,yeah,afraid,,
+11,33,high_012,C,okay okay cool,joy,,
+11,34,high_012,T,okay now one important thing about this medication is this is in addition to diet and exercise so keep doing that healthy diets all that exercise to help lower your cholesterol as well,,highly empathetic,low polite
+11,35,high_012,C,all right okay,content,,
+11,36,high_012,T,now what side effects did your doctor tell you that this medication made cause,,non empathetic,low polite
+11,37,high_012,C,I don't know I mean he you know he did say that hopefully would be better for my my legs right,hopeful,,
+11,38,high_012,T,hopefully it will now it's still possible it may cause that you are in kind of a high dose most people do fine on it I mean it's a different it works in a different way than the statin so if you experience that just let your doctor know but most people do do fine,,highly empathetic,highly polite
+11,39,high_012,C,okay,angry,,
+11,40,high_012,T,now other side effects you might experience you might have a little bit of stomach upset if that happens just take it with food and that should help okay,,highly empathetic,low polite
+11,41,high_012,C,okay,angry,,
+11,42,high_012,T,as far as storing it keep it in this bottle that'll protect it from light and from moisture keep it at room temperature you know nothing fancy,,non empathetic,low polite
+11,43,high_012,C,yeah,afraid,,
+11,44,high_012,T,and you do have three refills on here,,highly empathetic,low polite
+11,45,high_012,C,okay,angry,,
+11,46,high_012,T,so once you're getting low go ahead give us a call we'll be happy to get you your refill,,highly empathetic,highly polite
+11,47,high_012,C,okay,angry,,
+11,48,high_012,T,all right great now I've given you a lot of information yeah just to be sure that I've explained everything how are you going to take this medicate take it,,low empathetic,highly polite
+11,49,high_012,C,what two pills twice day before meals yeah,angry,,
+11,50,high_012,T,right you've got it okay good what questions do you have for me about this medication,,low empathetic,highly polite
+11,51,high_012,C,I mean you know I mean I just hope that doesn't cause the pain I mean obviously you know it's frustrating I'm good not have any problems and then start taking medicine and starting to have problems,sad,,
+11,52,high_012,T,absolutely I understand your frustration try to stick with it you know because it is important we lower your cholesterol but like I said if you start to notice any muscle pain let your doctor know there's other options he may be able to switch you and most people do do just fine on it,,highly empathetic,highly polite
+11,53,high_012,C,okay sounds good,content,,
+11,54,high_012,T,all right great what other questions do you have for me,,non empathetic,highly polite
+11,55,high_012,C,I think that's it I think we're good,content,,
+11,56,high_012,T,all right very good so just to kind of summarize make sure that you kind of stick with it if you do start to notice any muscle pain make sure you report that right away,,highly empathetic,highly polite
+11,57,high_012,C,yeah,afraid,,
+11,58,high_012,T,take it a half hour before breakfast and again a half hour before dinner if you can but it's important just to remember to take that twice a day,,non empathetic,low polite
+11,59,high_012,C,Oh kind,sentimental,,
+11,60,high_012,T,of regularly great alright if anything else comes up at all our numbers right here on the bottle give us a call again my name is Dave and I'd be happy to help you any of the other pharmacists would also be willing to help you as well just in case I'm not in so go ahead and give us a call,,highly empathetic,highly polite
+11,61,high_012,C,great all right good,content,,
+11,62,high_012,T,thank you very much I really appreciate your time today,,highly empathetic,highly polite
+11,63,high_012,C,yeah all right,joy,,
+11,64,high_012,T,thank you mr. seeders take care you,,highly empathetic,highly polite
+12,0,high_013,T,there's great seeing you thank you for coming to diabetes clinic today my name is Mark Smith I'm a pharmacist I work with dr. Pham and I we run the diabetes clinic and we basically serve to educate our patients so that I can better manage their their diabetes and looking at your chart I see that you are pre-diabetic so what we're going to do now is kind of focus on nutrition mostly diet and exercise okay,,highly empathetic,highly polite
+12,1,high_013,C,dr. Pham already made me get a nutritionist I know what you're going to tell me so Kyle Eve,confident,,
+12,2,high_013,T,okay okay that's fine I'm glad you had the opportunity to talk with the nutritionist I'm she's a very nice lady and she has some very valuable information do you mind telling me some of the things that she discuss with you,,highly empathetic,highly polite
+12,3,high_013,C,it's the same stuff you're gonna tell me,trusting,,
+12,4,high_013,T,okay well I will show you what I normally go through with my patients and then you can let me know if there's any information that you covered with the nutritionist or any of the material it's new to you then that would be great as well basically we feel that going over the nutrition aspect of diabetes and pre-diabetes is so important there's so much that we can do without taking medications and we've seen many patients that have benefited from making just minor changes to their diet that are greatly impacted their health in a very positive way so to start off I'm just going to ask you a few questions about what you eat to get a better picture of your diet so first what did you have for breakfast,,highly empathetic,highly polite
+12,5,high_013,C,couple eggs bacon biscuits great,joy,,
+12,6,high_013,T,okay all right and then what about lunch,,non empathetic,low polite
+12,7,high_013,C,turkey sandwiches and chips,angry,,
+12,8,high_013,T,okay chips and then for dinner,,low empathetic,low polite
+12,9,high_013,C,spaghetti salad bread,angry,,
+12,10,high_013,T,okay spaghetti salad and bread okay so tell me then what about any snacking that you do throughout the day like any snacks or anything like that,,non empathetic,low polite
+12,11,high_013,C,I don't really snack but sometimes ice cream after dinner may be free in between meals benign occasion not very often,sad,,
+12,12,high_013,T,okay and also what kind of beverages and things that you drink what are some of the things that you drink throughout throughout your day,,non empathetic,low polite
+12,13,high_013,C,or constant constantly feeling hydrated some thirsty so I drink sweet tea all day long,sad,,
+12,14,high_013,T,okay okay well thanks for sharing a bit of information within this patient this kind of gives us a better idea of what you throughout the day so now I'm going to give you some information or show you some information about nutrition okay,,low empathetic,highly polite
+12,15,high_013,C,all right know what you're going to say I need to eat less I've heard it all before it doesn't work for me so good,confident,,
+12,16,high_013,T,okay all right so that's that's that's my ministrations but just just kind of bear with me so when I gather from your best far as that you know already you're fully aware of the things that you need to do in order to live a healthy lifestyle and take care of yourself however you seem to find it difficult and you don't think that it works for you is that that's kind of the fish that I'm getting so explain to me what are some of the barriers that you feel exists that prevents you from eating healthier and losing weight,,highly empathetic,low polite
+12,17,high_013,C,it's mostly the money it's expensive to buy foods that are healthy and I just can't afford it consistently also like foods it tastes good I hope these stuff doesn't taste good and I just don't want it and also my kids want the good taste in food so they wouldn't even eat it if I made healthy food,sad,,
+12,18,high_013,T,okay okay then I understand completely that finances can be a potential issue and an issue especially when it comes to eating healthy more importantly picking out the right healthy foods for your kids to end and also to have good taste is also a priority to you so tell me about you know we're going to switch and transition from diet and talk about exercise tell me about your normal exercise routine,,highly empathetic,highly polite
+12,19,high_013,C,honestly I only have one I haven't exercised in years just don't feel like it put all the money to join again,sad,,
+12,20,high_013,T,okay okay and then what are some of the barriers you believe that prevent you from exercising on a regular basis,,non empathetic,low polite
+12,21,high_013,C,well kids they take a lot of time group and money like I said gym memberships or there's several close to my home but they're too expensive for me to get and I just don't have enough time the kids take a ball a day of the day and then work,angry,,
+12,22,high_013,T,all right and then what what ultimate benefits let's talk about benefits what benefits that you feel that you can ultimately gain by by seeking out more nutritious foods and incorporating exercise into a daily regimen regimen and an overall losing weight what do you think would be the benefits of doing all that,,highly empathetic,highly polite
+12,23,high_013,C,I guess it's good for you dr. Pham always gets mad at me and says I'm not healthy and always talks about my weight,angry,,
+12,24,high_013,T,okay,,non empathetic,low polite
+12,25,high_013,C,maybe,hopeful,,
+12,26,high_013,T,okay maybe yes yes ma'am well and and then those things are exactly correct on what I would like to do miss Fisher I know that you're pressed for time I'm not going to take too much of your time but I would like to schedule min and I and basically sit down with you and kind of go over some some helpful alternatives and basically look at some cost effective type thing since cost is an issue with you and then also look at some resources that we can channel into when it comes to exercise you'll soon find out that some of the exercises that you can do they don't even require a gym membership so you know if that's something deal at because you mentioned to me that time and money are contouring for you so we basically want to work with you together to see if we can get something that that better suits you you know and get you on the right track when it comes to your pre-diabetes and overall losing weight so would you like to come in and scheduling Pullman with us about a week from now,,highly empathetic,highly polite
+12,27,high_013,C,yeah I mean you can help me with the finances and Ty,grateful,,
+12,28,high_013,T,yes ma'am yes ma'am I believe that so what what we do is we'll schedule a week from now and but it was it was a pleasure talking with you and I very much look forward to working with you okay all right yeah we good rest of the day okay all right,,highly empathetic,highly polite
+13,0,high_014,T,hi I'm Andrea,,highly empathetic,highly polite
+13,1,high_014,C,until nice to meet you,joy,,
+13,2,high_014,T,nice to meet you so what brings you here today,,highly empathetic,highly polite
+13,3,high_014,C,well I just been feeling really stressed out lately because it's coming to the holidays and my teachers have decided to lower the class with everything these next couple weeks so it is overwhelmed with it all I had I have like feel like I have so much stuff to do and what are those personalities like for crafting a variant I can't with what I have to do and I wanted to well but I trust I'll be doing that and have the holidays I'm trying to prepare to my home Thanksgiving lots of stuff going on then and then boy is coming to visit me for Christmas,confident,,
+13,4,high_014,T,that's nice so hearing me say is that you're stressed with all this going on at school and preparing for the holidays that's that big it's really a lot on your plate,,non empathetic,highly polite
+13,5,high_014,C,it's like if it was just the work if you find that I'm stressed about that too and I'm worried about me even think oh it sounds kind of silly but you know your boyfriend coming home for Christmas is kind of a big deal,afraid,,
+13,6,high_014,T,for sure,,low empathetic,low polite
+13,7,high_014,C,and it's like I wanted to like my family but I I'm not excited you didn't put him to be bored you know I mean that's I shouldn't even be in my mind you know I should be totally focused on school right now it's just,sad,,
+13,8,high_014,T,so do you feel like you but obviously we're this far on this semester how well do you think you've done well thus far,,low empathetic,highly polite
+13,9,high_014,C,yeah actually I've been doing a lot better in this semester and I think that because of it I wanted to want to keep to move on I want to get I like I'm over a cheer instance I like skip good grades but that makes the procrastination like I'm really good at working under pressure but I can't work under pressure with this up because if I don't start doing in advance I won't get it done and I'm trying to figure out how to just balance to you,sad,,
+13,10,high_014,T,do you think if you do what are some options that you see you may have preparing yourself to get the assignments done,,highly empathetic,low polite
+13,11,high_014,C,oh I guess just I've considered you know being very turning off all of my electronics of when my computer I'll need it to do the whole market and doing like a to-do list and just really disciplining myself that you know I have to do it but as soon as I get my computer and like Facebook and gave you the things that distract me I keep finding myself putting it up and putting it off,sad,,
+13,12,high_014,T,have you tried anything that might have works in past -,,highly empathetic,low polite
+13,13,high_014,C,well we recently had fire home and we did the whole fascinating and I fasted like my computer completely I was a lot more with internet at all and to really do anything with electronics and I think that just having that goal in my mind and because it was forgotten I was able to really just not do it and I did so much homework during that week that I've ever done so maybe just really sitting at one with God could help me to better I should I should do it it's just so much easier said than done you know because we're college students who want to go have fun and we wanted to be with our friends but I mean I've had to cancel all my plans and this is why purple holidays at lunch sometime a benefit just frustrating me the teachers you know I mean I know that they did all something followed but there's just so much to do,trusting,,
+13,14,high_014,T,it's overwhelming that getting all your stuff inside working out strategies,,non empathetic,low polite
+13,15,high_014,C,I think that you know girls are always overachievers and we can't just chill and like even my fans always like why don't you just relax they're plump up your deal but I'm trying to think that but I don't like it's a big deal school some things ago because I'm not really talented with my music okay dance or any of those things but so many people are into it so school is like my gift I do good and I understand it so to not feel secure and that is kind of,confident,,
+13,16,high_014,T,so you put a lot of pressure on yourself when I hear saying it's cool because you like that -,,low empathetic,low polite
+13,17,high_014,C,hey I guess it is a lot of pressure I mean I remember in high school my brother was like the good pop and he's older than me he would come back with bad grades and I would come off straight A's I'm so excited you know tell me about your day Ethan Anthony was just like give him all these pitches he did so bad the whole time I always wanted to shine [Music] maybe I do need to just relax and know that the day-to-day thing,confident,,
+13,18,high_014,T,do you feel like you've done involve thus far the semester your classes,,low empathetic,low polite
+13,19,high_014,C,I think I've got some of my closest I'm not sharing because we don't really get product reports in them but both classes I do you know yeah I'm doing well and but you know there's so much riding on these next few weeks I don't do well on these assignments like it could totally mess up all that work so,confident,,
+13,20,high_014,T,so your primary concern really is for the speak you have to get done this week I remember me just said earlier about creating possibly the creating the to-do list or do you think do you think those things that you mentioned earlier would be good,,non empathetic,highly polite
+13,21,high_014,C,probably just do it talk about it but I guess it's just nice to know that,content,,
+13,22,high_014,T,completion with that and going the holiday do you feel like when you do how do you feel stressful week,,non empathetic,highly polite
+13,23,high_014,C,toy was always really really relaxing so I think that'll be good it's kind of like a reward for getting through it but then I have I mean these goodies won't need a week and I feel like we'll be doing a lot in preparation for my boyfriend coming for Christmas so it won't be everlasting back for three more weeks of school and then like columns here and no it's like breach I mean it should be,afraid,,
+13,24,high_014,T,so it seems like you have a lot going on this week but you seem motivated and now to complete it and you have the break to look forward to but you said it so that sounds like you you're almost there you're going to make it so it's good hearing from you [Music],,highly empathetic,highly polite
+14,0,high_015,T,can you talk about the transformation that you see in people,,highly empathetic,low polite
+14,1,high_015,C,it's it keeps me coming back to work every day you know I get to see them walk in and I get to see that transformation slowly and it's beautiful you know you don't you can't beat that,joy,,
+14,2,high_015,T,I mean realistically not everyone is a success story and we see its relapse it's a part of recovery but but for most cases though that difficult cases that do a good job and make that transformation when does that usually occur,,highly empathetic,low polite
+14,3,high_015,C,I think it's different for everyone I mean and we really can't tell who's going to make it by who has a better you know a bigger desire it's a journey and it's this process and so sometimes it happens where you see that light come on sometimes they're struggling and they're discharging and that's that's probably the most difficult part of the job is knowing that someone's not ready to be brought back to their environment and yet that's what has to happen you know it's a transitional period so,afraid,,
+14,4,high_015,T,so they finished the first month of treatment and then it's time to go back to their life because they have to work or they have school or they have kids at home that's what you're talking about that's what's what's difficult or scary for you when they have to leave,,non empathetic,low polite
+14,5,high_015,C,yeah because it's you know this is a family disease so when you know you leave that environment that was totally chaotic when you leave like the partner and the kids and the bills and the job and the everything and you remove yourself from that environment may you get popped back into it it's like the people around you assume that great you're finally home because now you can take care of the kids and pick up the you know dry cleaning and you know it's they expect you to be there the way you were and so much more and it's completely unrealistic and you know that they're not willing to change their behaviors if they're still going to be able to drink or have pills or whatever it is and it's it's not okay it's not safe and so that it's a difficult thing,sad,,
+14,6,high_015,T,is there a strategy that you use that that that you have found to be successful in your experience with maybe that the problem cases are the harder cases,,low empathetic,low polite
+14,7,high_015,C,I think that's a common like idea is that oh the ones that have been through treatment a bunch are more difficult or those who have you know just been unsuccessful and they've tried or they've grown up in this environment or that environment and you know it's everyone is different that's why I I personally have a very eclectic approach to each individual and I work with a fantastic team that I can run things by you know people who have stronger knowledge base on certain things so I think everyone has to be approached individually,confident,,
+14,8,high_015,T,so I guess the message here is that the transition is really important yes the treatment facility is good you could need to go to the detoxification the group therapy but it's also that transition period in every facility I think has a an intensive outpatient program or a sober living environment or at least the referrals that you can get to that so it doesn't just stop after the 28 days it continues and that's I think what we're saying professionally here well actually leads us to the last our last show we we met with the girl named sunny and we're gonna do a flashback here but sunny was basically offered treatment and she she's knows so much about herself she's very good at saying exactly what she feels and she you could just see there was no hope there she basically said look I've been through these programs I helped run these programs I was a counselor and I was going into the bathroom and I was shooting up in the bathroom and I was going out and no one even knew it for weeks and weeks and weeks and so then at this point she's like well I'll try it but why bother at this point I'd been through it all I know myself and we've all been there where we knew ourselves we knew that nothing was going to stand the way of our using we wanted to stop but our head just check something happened in our brains and something happened with with our lives that all of a sudden we would go back to using again and she knew herself but is it always is anyone a lost cause that's it always worth it,,highly empathetic,highly polite
+14,9,high_015,C,absolutely,confident,,
+14,10,high_015,C,my wife Sonny had a period of sobriety and she relapse back in May we have a small child we have two and a half year old son,sad,,
+14,11,high_015,T,there's always another chance no matter how bad it gets is it possible can we talk to your,,highly empathetic,highly polite
+14,12,high_015,C,15 years and I put my step worth on the back burner and I went out I was shooting dope i was shooting heroin a meth in my neck every day and you know working and treatment trying to work there still you know and it's trying to go to this meeting and be secretary still high you know I said I wouldn't get high at work and you know that I'm trying to find a vein in the bathroom all night I had no mental defense against the needle I stole medication I went to sober living after so we're living I used there and i use there and i use there and i go on until i start doing things that are shady since i realized i've been able to put together more than a week,sad,,
+14,13,high_015,T,is there a willingness or you are you basically giving up,,low empathetic,low polite
+14,14,high_015,C,what's what's gonna do this time you know why is this place gonna be magical,hopeful,,
+14,15,high_015,T,so what I'm asking you at this point will you give it one more shot and are you willing to go to treatment,,highly empathetic,low polite
+14,16,high_015,C,another,afraid,,
+14,17,high_015,T,at this point what do we have to lose you know what's scary,,non empathetic,low polite
+14,18,high_015,C,I get the all right,confident,,
+14,19,high_015,T,thank you so much for doing this i know that it hasn't been easy,,highly empathetic,highly polite
+14,20,high_015,C,no problem,content,,
+14,21,high_015,T,how are you doing first of all,,highly empathetic,low polite
+14,22,high_015,C,i'm doing excellent i feel great,confident,,
+14,23,high_015,T,there was one part where we actually asked her it was cut out we said you know do you want to go to treatment she says,,low empathetic,low polite
+14,24,high_015,C,can I bring my cell phone like I don't know about that but you know I I you went to Spencer Recovery Center and I worked there so I'm able to see the transition as well I don't work in and him with you but Carrie does,confident,,
+14,25,high_015,T,you know you you were honest about being a manipulator you were honest about the other programs you went to what's it like now for you what was it like what was different about this place,,highly empathetic,low polite
+14,26,high_015,C,you know I'm not really sure but there is something different I mean I don't know if it's with me or just with my like a psychic kind of change you know going in there except not being out of maybe desperation but just out of my own choice just to be like all right I'm gonna do something different with my life this time and really try and then I had a hard time for a little bit and I really worked with Carrie like to address some of my other issues that might be going on you know other than if I'm relapsing that much maybe there's something else going on with me besides just my addiction you know,hopeful,,
+14,27,high_015,T,but you've worked hard it hasn't been easy,,low empathetic,low polite
+14,28,high_015,C,no it hasn't I've had some struggles like just mental struggles you know when you get back into mode to a relapse it's like or feel that feeling and then you know if to just pray on it and just like so something else can intervene and like besides yourself you know because i did and God stepped in and took those things away you know like because once you're in that mode it's very hard to once you're locked in a mode that you decided to use or like that you're getting feeling like you may want to it's very hard to get yourself out of that and I managed to pull myself out of that with the help of Spencer,trusting,,
+14,29,high_015,T,the transition that we see just on the outside as well I mean people at home need to see that because when you're working for a facility at one point shooting drugs into your neck and then your back at home wondering how am I everyone do this because every Center that I went to i manipulated it and I ended up pulling one over on them and Here I am again back at home shooting drugs or using suboxone or whatever it is that you were doing I like to just take a few minutes to have your your dad and you have a little boy come up and talk to them just for a fitting,,low empathetic,highly polite
+15,0,high_016,T,why miss Clark my name is Alan Lyme I'm a social worker at the Family Health Center dr. Sheila asked me if I would spend some time with you today I'm really glad that you here I'm just curious as to why he would send you to me,,highly empathetic,highly polite
+15,1,high_016,C,well I came to see dr. Steele last week because of increasing stress and anxiety that's kind of getting the best of me and in the course of my appointment with him he was asking how I was dealing with that stress and I mentioned that my one or two glasses of wine a few nights a week is turning into more frequent in maybe three or four on some nights and he had some concerns about that and and felt like maybe you could help me with stress or something,afraid,,
+15,2,high_016,T,yeah so he he actually see me because he went to him for increased stress and he's concerned that your alcohol consumption may be a part of that increase and prior to prescribing you anything you want to make sure that you had someone to talk to about that,,non empathetic,low polite
+15,3,high_016,C,I suppose,hopeful,,
+15,4,high_016,T,okay I saw you filled in one of the pink sheets might take a little bit,,highly empathetic,low polite
+15,5,high_016,C,he told me to fill that out and bring it with me,confident,,
+15,6,high_016,T,okay thank you so you say here that you have four or more drinks in one week you mentioned that you may be increasing that a little bit as well um and that you have one or two drinks in one setting,,non empathetic,highly polite
+15,7,high_016,C,typically,angry,,
+15,8,high_016,T,yeah and maybe monthly you have more than that what what's what kind of drinks do you have what do you drink we need to drive,,non empathetic,low polite
+15,9,high_016,C,wine with my meals um you know again one or two typically and more frequently three or four so my stress is increased,afraid,,
+15,10,high_016,T,so starting to increase this times drink a little more okay well based on what you put here you give it gives you six points on this scale scale ranges from zero to forty so six points will put you in what we consider an at-risk zone so if it's okay with you lots to talk a bit about that,,non empathetic,low polite
+15,11,high_016,C,okay,angry,,
+15,12,high_016,T,okay so that was sunset run zero to forty it's not it's not a super high risk but it certainly could be a risk for maybe increasing stress maybe some physical Emmas related to alcohol well could start to show up if you were to increase your drinking from there or you can stay there this is a typical standard drink size over here I'm not sure whether that fits your description of a glass of wine a lot,,non empathetic,low polite
+15,13,high_016,C,I fill the glass up so maybe a little more than,hopeful,,
+15,14,high_016,T,yeah maybe the little space that it's upside to drink drink and a half each one so that also increased a little bit more so perhaps maybe drinking more than you indicated on here and for women you healthy woman your age no more than three drinks in one setting is considered to be lower or no-risk and 1/7 in one week,,non empathetic,low polite
+15,15,high_016,C,so in total,angry,,
+15,16,high_016,T,how much total in the week and what you say here is that even on this sheet you're perhaps already drinking more than that,,non empathetic,low polite
+15,17,high_016,C,mmm,afraid,,
+15,18,high_016,T,so what do you make of all that,,non empathetic,impolite
+15,19,high_016,C,well that news to me you know I thought red wine with your meals is supposed to be healthy and you know no more than seven in a week that seems kind of prohibitive,sad,,
+15,20,high_016,T,yeah it seems it seems a little less than perhaps you've been drinking with what you consider to be healthy drinking and certainly there's this conflicting information out there about what's healthy what's not healthy imagine the increased stresses what because we're concerned or to seal as your stresses increases and if you were to prescribe you anything maybe some interaction between the two but also build and serve them I would think so if you would what is it that you like about alcohol,,non empathetic,highly polite
+15,21,high_016,C,well you know it does at least in the moment temporarily reduce my stress and I you know like a good glass of wine I don't don't drink the cheap stuff I like the expensive what,content,,
+15,22,high_016,T,so you like the taste of it mm-hmm and it does help to lower the stress signal which is for that time you're drinking one of those so good things about alcohol for you,,low empathetic,highly polite
+15,23,high_016,C,um well you know the nights that maybe I have a couple more glasses than I should I wake up feeling kind of yuck and of course part of my stress is finances and I mentioned I like the good stuff and so if I'm drinking more than I'm increasing my financial burden,sad,,
+15,24,high_016,T,yeah so your financial stress may be increased by the fact that you're drinking,,non empathetic,low polite
+15,25,high_016,C,yeah kind of defeating the purpose there,sad,,
+15,26,high_016,T,22 the drinking to do stress and increasing stresses so the one hand it lowers it on the other hand it's increasing kind of a seesaw teeter-totter effect then what do you make of that give them that on one hand it lowers and the other had it increases and now it's increasing even more,,non empathetic,low polite
+15,27,high_016,C,maybe I need to find some other way to deal with my stress,afraid,,
+15,28,high_016,T,yeah imagine you've had some thoughts of that what have you thought of trying,,highly empathetic,low polite
+15,29,high_016,C,well I've exercised in the past and that helps right now my schedule is kind of out of whack and I just really don't know what to do that's why I came to see dr. Steele I thought maybe he can prescribe me something that would help me you know when I'm feeling overwhelmed,hopeful,,
+15,30,high_016,T,and he may be able to I'm not saying that he cannot I'm just imagine that he's concerned that if you continue to drink on the level that you are drinking that whatever he prescribes you there may be an interaction with the to imagine that she's concerned I'm not completely sure so you've had some success in the past with changing behaviors and if you were to decide to make any changes here it sounds like you could drop all that to make those changes how important would it be for you on a scale of 0 through 10 i below the visual here with that if zero is not important tennis is very important to do something about your drinking way,,non empathetic,highly polite
+15,31,high_016,C,mm-hmm well I mean if if it means that it's increasing my stress and or he's not going to prescribe me anything because of my drinking then it's fairly important maybe about a 7,afraid,,
+15,32,high_016,T,mm-hmm let's put it up there why do you choose a 7 or a 504,,non empathetic,low polite
+15,33,high_016,C,well again I've got to get things under control you know my kids are depending on me and I've got to go to work to help ease this financial stress and so you know all those responsibilities,sentimental,,
+15,34,high_016,T,there's a lot riding on your decision in what to do this what if anything will bring up too late online on that scale,,non empathetic,low polite
+15,35,high_016,C,um well the you know the risk that you mentioned about the drug interaction I certainly can't afford to you know have any more stress,afraid,,
+15,36,high_016,T,yeah so so you choose to lower your stress rather than increase it and if lo and your drinking would have that effect that something be willing to do right now how confident are you that you could do something about your drinking,,low empathetic,highly polite
+15,37,high_016,C,I'm pretty confident and you know probably about a seven or eight,confident,,
+15,38,high_016,T,okay so it's pretty hot up there again and what if what if anything would you choose to do would be to cut down with a bit to quit just in case but,,non empathetic,highly polite
+15,39,high_016,C,you know I like I said like a good glass of wine I don't want to quit altogether I'd be willing to try cutting that but you know if it's going to if doctor seal would agree to prescribe me something for the anxiety and it meant that I had to not drink at all I'd be willing to do that at least for a period of time,afraid,,
+15,40,high_016,T,so you'd be willing to stop altogether that's what was indicated by the physician okay so so based on that how ready are you to do anything right now whether it's to cut back whether it is to quit,,non empathetic,highly polite
+15,41,high_016,C,well again you know if I can get something to help me manage if maybe I can find some other way to deal with the stress then then you know I be pretty ready I again maybe about in on that scale maybe an eighth,confident,,
+15,42,high_016,T,okay so that's that's pretty hot there as well it sounds is that you'll be pretty motivated to do something about this right now given your responsibilities given your children relying at this point and just on on lowering anxiety in general it sounds and that's one of your goals as well well I'm pretty confident that once you decide to do whatever it is you decide to do you'll be able to follow through that based on your experience in the past of of making behavior changes imagine some things that you can draw upon what's one thing that you could do imagine you thought of some things might help to lower your stress,,low empathetic,highly polite
+15,43,high_016,C,well I you know the the exercise but again that's that's kind of difficult to fit in right now hoping that dr. seal will prescribe something for me to take when I'm feeling particularly overwhelmed and maybe just having somebody to talk to to bounce some things off of,hopeful,,
+15,44,high_016,T,one of the things we can't offer here is for you to come in and talk to one of our behavioral health specialists may be able to help you talk talk through this there's a terrible stress and sound like responsibility there and we can make a point for you if you like before you leave today dad talk to someone,,highly empathetic,highly polite
+15,45,high_016,C,that'd be nice,hopeful,,
+15,46,high_016,T,right it also has some information here if you're interested some a pamphlet on alcohol and and how what healthy limits are and how it may be affected by medications that you took as well and I wish you lots of luck it sounds as though you really committed to making this shift in this change and imagined doctors still wanna fight with you and see how you do with your with your change within a few weeks again I look forward to speaking to in the future,,highly empathetic,highly polite
+15,47,high_016,C,all right thank you very much,grateful,,
+15,48,high_016,T,you're welcome,,highly empathetic,low polite
+242,0,low_089,C,professor can I come in,afraid,,
+242,1,low_089,T,yeah have a seat I'll be with you in a second well what is it,,non empathetic,low polite
+242,2,low_089,C,I'm in your microbiology class the semester and I was wondering if you could help me choose my classes for next semester,hopeful,,
+242,3,low_089,T,take one of these handouts on my desk,,low empathetic,low polite
+242,4,low_089,C,what is this,afraid,,
+242,5,low_089,T,it's a list of classes that students taking this major cross off the ones you've already taken it choose from the ones that are left,,non empathetic,low polite
+242,6,low_089,C,okay I cross off,content,,
+242,7,low_089,T,I'm guessing if you're in my microbiology class this semester you're ready to take these next classes right,,low empathetic,low polite
+242,8,low_089,C,well microbiology is really hard and I'm kind of struggling,afraid,,
+242,9,low_089,T,what do you want to do with your major,,highly empathetic,low polite
+242,10,low_089,C,i'm not sure i was thinking grad school veterinary medicine maybe,afraid,,
+242,11,low_089,T,oh you want to save the kittens and puppies on very nice well you're gonna have to be a much better student if you want to do that or just about anything else in this field anyway the sheets go to the classes you can take so study hard I'll see you in class okay,,highly empathetic,highly polite
+243,0,low_090,T,Jim Cup hi I why are you stuff in my office all right Jim so what brings you in today,,non empathetic,highly polite
+243,1,low_090,C,oh man you know just I change my lifestyle just finding what works Todd burning stuff and I got this I don't know like family problems in the past and dad died from having a hard Zak and everything and I guess I'm next so you know got to figure everything out how much it seems like a lot of work,afraid,,
+243,2,low_090,T,all right listen up you got to make some big lifestyle changes you need be decreasing your so do you need to be an angry teasing potassium increasing magnesium cutting all that saturated fat your diet looks horrible right now I mean you're you're hardly doing anything right Jim you're going to end up just like your dad if you don't change right now you have to change Jim,,non empathetic,highly polite
+243,3,low_090,C,well jesus take the wheel in because I'm stressed that's what I'm coming here for geez opium just I'm trying,grateful,,
+244,0,low_091,C,hi pharmacists I have some questions that I really need to speak to someone about,afraid,,
+244,1,low_091,T,yeah pharmacist go ahead,,non empathetic,low polite
+244,2,low_091,C,so I'm going to let your advice because my son doctor is really on my case about getting vaccinated against the measles because of all the cases that are happening but I really don't believe in vaccines,afraid,,
+244,3,low_091,T,well the measles is a really bad infection so it's really important you need to give your son the vaccinations,,highly empathetic,low polite
+244,4,low_091,C,what about all the risks my son's never been sick because I make sure he  washes those hands I keep them away from public places and I give them walk the vitamins,sentimental,,
+244,5,low_091,T,it doesn't matter if your son's always healthy vitamins don't treat the measles,,low empathetic,low polite
+245,0,low_092,T,"Mm, except there's nothing funny about mental illness.",,low empathetic,low polite
+245,1,low_092,C,Yeah of course.,sad,,
+245,2,low_092,T,So depression huh? The big D.,,low empathetic,low polite
+245,3,low_092,C,Yeah.,sad,,
+245,4,low_092,T,"You know, I find it so surprising that people can be depressed nowadays when there's new Star Wars movies coming out, like this guy.",,low empathetic,low polite
+245,5,low_092,C,Well those prequels are just so bad.,angry,,
+245,6,low_092,T,Well that's your opinion.,,non empathetic,low polite
+245,7,low_092,C,"Yeah, that's my opinion.",sad,,
+245,8,low_092,T,Please describe your symptoms.,,non empathetic,low polite
+245,9,low_092,C,Well I'm having trouble sleeping. I feel like I'm having a lot of dark thoughts.,afraid,,
+245,10,low_092,T,"Okay, uh, on a scale of  to , how dark?",,non empathetic,low polite
+245,11,low_092,C,Uh I guess I'd say...,sad,,
+245,12,low_092,T,"being the lowest,  being the highest.",,low empathetic,low polite
+245,13,low_092,C,"Sure, that's how I assumed. An , I'd say.",sad,,
+245,14,low_092,T,"Wow, nice.",,highly empathetic,low polite
+245,15,low_092,C,"Yeah, um, I just keep thinking everything is a distraction from our mortality, everything we do is meaningless.",sad,,
+245,16,low_092,T,How do those thoughts make you feel?,,highly empathetic,low polite
+245,17,low_092,C,"A lot of the time, I feel like I'm in a state where I don't feel anything at all, but then later on I'll find myself crying for no reason.",sad,,
+245,18,low_092,T,"Alright, this sounds like you're quoting the Smiths. Are you quoting the Smiths?",,low empathetic,low polite
+245,19,low_092,C,I'm sorry?,sad,,
+245,20,low_092,T,Are you quoting the Smiths?,,non empathetic,impolite
+245,21,low_092,C,No.,angry,,
+245,22,low_092,T,Okay. Please continue describing your symptoms.,,non empathetic,low polite
+245,23,low_092,C,"Uh, alright. It's just, it's just a lot of times I feel overwhelmed by dis--it's not that I want to die, but it's just sometimes I feel like I don't want to live.",afraid,,
+245,24,low_092,T,"Alright there Marcy, I'm your therapist, not your Tumblr.",,highly empathetic,low polite
+245,25,low_092,C,I don't understanding what you're saying.,afraid,,
+245,26,low_092,T,"It's the oldest trick in the book. A super handsome guy walks into a therapist's office, tricks her with his rustic charms.",,low empathetic,highly polite
+245,27,low_092,C,Are you saying I'm lying to you right now?,trusting,,
+245,28,low_092,T,"Yeah, yeah I am. And my suspicions were confirmed the moment you started quoting the Smiths.",,non empathetic,low polite
+245,29,low_092,C,I-I don't even listen to the Smiths.,sad,,
+245,30,low_092,T,"Well, oh my gosh, now I know you're lying. Who doesn't listen to the Smiths? Are you sure you like Star Wars?",,non empathetic,highly polite
+245,31,low_092,C,Why-why would I lie about that?,sad,,
+245,32,low_092,T,Did you come here for a prescription for anti-depressants?,,non empathetic,low polite
+245,33,low_092,C,"Yes, obviously I--",sad,,
+245,34,low_092,T,"Well people like you disgust me. You know, handsome guys lurking around clubs, selling pills to drunken -somethings who don't know any better.",,non empathetic,highly polite
+245,35,low_092,C,"Stop calling me handsome, alright, that's inappropriate. And who is buying anti-depressants from a guy in a club?",angry,,
+245,36,low_092,T,People looking for happy times. Haven't you heard the grin and tonic?,,non empathetic,low polite
+245,37,low_092,C,"No, what... is that?",angry,,
+245,38,low_092,T,"Yeah, it's exactly what it sounds like.",,low empathetic,low polite
+245,39,low_092,C,"This is insane, alright. I think you're the one who needs therapy. I'm-I'm leaving.",angry,,
+245,40,low_092,T,"Okay, um, so, um, off-topic, would you ever want to get together sometime? We can drink red wine, listen to the Smiths...",,highly empathetic,highly polite
+245,41,low_092,C,"Nope, I'm done.",content,,
+245,42,low_092,T,Okay. Okay. Mmm... [the Smiths plays] So handsome... mmm.,,highly empathetic,low polite
+246,0,low_093,C,I'm okay.,content,,
+246,1,low_093,T,Good. Here take a look. See what you think. Isn't that feeling,,highly empathetic,highly polite
+246,2,low_093,C,Yep,surprised,,
+246,3,low_093,T,And the colors okay?,,highly empathetic,low polite
+246,4,low_093,C,Yep,surprised,,
+246,5,low_093,T,You know there is quite alot of staining. So umm I'm just wondering about umm some concerns about smoking possibly,,non empathetic,highly polite
+246,6,low_093,C,Eh... I'm going to get that again.,afraid,,
+246,7,low_093,T,"coffee, tea yeah, and you've heard this before I'm sure.",,low empathetic,low polite
+246,8,low_093,C,I do all of the above,confident,,
+246,9,low_093,T,"So you know the smoking is going be related to not just to some of the other negative consequences you know physically it it effects dental carries, dental cavities",,non empathetic,low polite
+246,10,low_093,C,Yeah,sad,,
+246,11,low_093,T,Umm healing .,,highly empathetic,impolite
+246,12,low_093,C,Yeah ok,angry,,
+246,13,low_093,T,in your mouth. Soo,,non empathetic,impolite
+246,14,low_093,C,I've heard it all but I just want to get my teeth fixed.,hopeful,,
+246,15,low_093,T,"Yes and I really want to be helpful. I really want you to know my commitment is to your oral health so umm there are lots of medications out there, David that actually take away alot of the cravings there they make things soo much easier.",,highly empathetic,highly polite
+246,16,low_093,C,I did a pill thing so I did try it.I did try it. I did the pill thing and they didn't work.,sad,,
+246,17,low_093,T,mmm,,non empathetic,impolite
+246,18,low_093,C,It was a waste and it uh caused more side effects.,angry,,
+246,19,low_093,T,No it but David. David it's not a waste. Research shows that people take on average about  tries before they quit smoking so think of it as you're one step closer to quitting.,,highly empathetic,low polite
+246,20,low_093,C,Or seven lectures along the road.,afraid,,
+246,21,low_093,T,Ah well I don't think I'm giving you a lecture.,,low empathetic,low polite
+246,22,low_093,C,Well,angry,,
+246,23,low_093,T,That's certainly not what I meant.I,,low empathetic,low polite
+246,24,low_093,C,"Naw I just feel that way.I get really, I get very defensive about when I get it from my family doc my cardiologist, everybody. Like I'm not a complete fool. I am for smoking.",sad,,
+246,25,low_093,T,Well there there's a reason that.,,highly empathetic,low polite
+246,26,low_093,C,It's not easy to quit.,sad,,
+246,27,low_093,T,people are concerned. No but as I said these medications So you've tried the medication you've been willing once,,highly empathetic,low polite
+246,28,low_093,C,Yep,surprised,,
+246,29,low_093,T,Then can I write you a prescription for the medication and can we talk about how you could use it because this is something that that it's very important. Not just for your overall physical health,,non empathetic,highly polite
+246,30,low_093,C,"I guess I gotta really want to. Things I've tried, they usually cause me more problems than they helped.",hopeful,,
+246,31,low_093,T,"Oh no, the smoking will cause you more problems than the than anything else. I can promise you that.David, the side effects from the medications are nothing compared to what can happen from the smoking.",,non empathetic,low polite
+246,32,low_093,C,mmm,afraid,,
+246,33,low_093,T,Like that's the thing to really consider.,,non empathetic,low polite
+246,34,low_093,C,"Okay well, can I go now?",afraid,,
+246,35,low_093,C,"I know what, I know Doc what you're trying to, I I just don't want to get into that right now.",afraid,,
+246,36,low_093,T,"Okay. Well thanks for listening and honestly I, I am really worried about the smoking so",,non empathetic,highly polite
+246,37,low_093,C,Okay,angry,,
+246,38,low_093,T,I uh,,low empathetic,low polite
+246,39,low_093,C,I appreciate your care.,grateful,,
+246,40,low_093,T,I'm here to help. Okay?,,highly empathetic,low polite
+246,41,low_093,C,Okay.,angry,,
+247,0,low_094,C,"Mm-hmm, yeah, I, I definitely don't want to come back here but, uh, the doc said Oscar, my dog, is connected to my asthma symptoms but the...",afraid,,
+247,1,low_094,T,Yeah.,,low empathetic,low polite
+247,2,low_094,C,... ridiculous part is I've had him for twelve years before and now it's a problem.,angry,,
+247,3,low_094,T,"Well you sound a bit surprised by that but I'm sure that you've seen some of the material that that the clinic gave you about asthma symptoms and managing your asthma and pets are a really big source of problems, in that respect.",,low empathetic,highly polite
+247,4,low_094,C,"Yeah bu-, I, um, let me just clarify.  I've seen the materials, I have them...",sad,,
+247,5,low_094,T,Mm-hmm.,,non empathetic,impolite
+247,6,low_094,C,...I haven't read them.  All I've been doing is taking the medicine so I don't know that much about this.,afraid,,
+247,7,low_094,T,"Well, w-, wait a second, Sal.  What do you mean yo-, yo-, ha-, if you, as an, you know, to be informed about I'm just re-, really taken aback by that because I understand from your chart that you have a young baby?",,highly empathetic,highly polite
+247,8,low_094,C,Yeah.,sad,,
+247,9,low_094,T,A new baby?,,highly empathetic,impolite
+247,10,low_094,C,"Gian-Carlo, yeah.",angry,,
+247,11,low_094,T,"And you are very concerned about your health.  You want to be there for your baby and that you've already taken some steps you've, you've almost quit smoking...",,highly empathetic,highly polite
+247,12,low_094,C,Mm-hmm.,angry,,
+247,13,low_094,T,"...which is fantastic. So the next step is to really d-, deal with the dog, deal with the pet.  I know it's, it's going to be hard to do that but there are always people who will adopt animals.  I'm sure that you have friends or family members.",,low empathetic,highly polite
+247,14,low_094,C,"Uh...this is a little too much right now.  First of all Gian-Carlo is taken care of, that's fine.  He doesn't have no asthma from the dog.  It's just me, I don't have...",content,,
+247,15,low_094,T,"It's you that I'm worried about, Sal.",,non empathetic,low polite
+247,16,low_094,C,Ah,surprised,,
+247,17,low_094,T,"It's you that I'm worried about.  OK.  Th-, the symptoms are worse.  You've had two or three major asthma attacks and I, do you appreciate how this is a-, a-, a risk to your life that there are some some adults with severe asthma who actually can die as a result of their symptoms.  It, it truly is something to take very very seriously.  I can't emphasize that enough.",,non empathetic,highly polite
+247,18,low_094,C,"So Oscar's going to make me die.  He hasn't made me die in twelve years and the doctor saying, ""oh, I don't know if it's the stress, the finances, the drinking,"" so what are we doing saying Oscar could make me die?  I've had him for twelve years.",afraid,,
+247,19,low_094,T,"Sal, wh-, ah, do, you understand that what happened six years ago or ten years ago, your asthma is progressively getting worse.  You know very well that the puffers, the strength of the medication is getting higher and higher and there's only so much that can be done with medication alone.  You know this.",,non empathetic,low polite
+247,20,low_094,C,Well they can keep giving me more medicine and give me the strongest one and I'll keep Oscar.,trusting,,
+247,21,low_094,T,"Sal, you're almost on the strongest one.  And if Oscar's that important to you then do you put Oscar higher than your baby?  Than your wife?  Like, ah, that makes no sense to me.  Do you understand how important this is?",,non empathetic,low polite
+247,22,low_094,C,I understand that I don't think you get my situation.  I've had this dog for twelve years so I'm not just going to up and get him out of my house when I don't even know if that's the main thing.,trusting,,
+247,23,low_094,T,[Sighs],,non empathetic,low polite
+247,24,low_094,C,Ho-...,angry,,
+247,25,low_094,T,OK.,,non empathetic,low polite
+248,0,low_095,C,Yeah.,sad,,
+248,1,low_095,T,"Great, how are you doing today?",,highly empathetic,highly polite
+248,2,low_095,C,"Oh, pretty good, always busy this time of year but keeping up. How are you?",content,,
+248,3,low_095,T,Doing great.,,low empathetic,low polite
+248,4,low_095,T,"Alright, your blood pressure is  over ",,non empathetic,low polite
+248,5,low_095,C,That's good right?,content,,
+248,6,low_095,T,Yes.,,non empathetic,low polite
+248,7,low_095,C,"Good, I've always been healthy",grateful,,
+248,8,low_095,T,"Well, not always. It looks like you got a letter about your AC and you haven't been taking very good care of your diabetes.",,low empathetic,highly polite
+248,9,low_095,C,My what?,sad,,
+248,10,low_095,T,Your AC. It measures the amount of sugar that's been on your hemoglobin in the last three months do determine how well you've been controlling your blood sugar.,,non empathetic,low polite
+248,11,low_095,C,"Oh yeah, I got that letter but I didn't really know what it meant and I never really paid attention to my diabetes because I feel fine, how bad is it?",sad,,
+248,12,low_095,T,"Well let's see. today it was . and three months ago, it was .. So normal is less than , you're way out of control.",,non empathetic,low polite
+248,13,low_095,C,"Well, like I've said, I've been way busy this month.",afraid,,
+248,14,low_095,T,Well your health is something you have to make time for. Have you at least been taking your diabetic medications?,,highly empathetic,low polite
+248,15,low_095,C,"Not really, I rather use diet and exercise.",sad,,
+248,16,low_095,T,"Well it looks like that's not really adequate, so you need to be taking your medications. Diet and exercise sometimes just aren't enough. Your chart says that you've been prescribed Metformin which is a long lasting medicine that will keep your blood sugar under control all day. I think it will be more effective than just diet and exercise. Are you testing your blood sugar?",,highly empathetic,low polite
+248,17,low_095,C,"Um, Yeah sometimes.",sad,,
+248,18,low_095,T,"Ok, how often?",,non empathetic,low polite
+248,19,low_095,C,"Oh, once every few weeks but I feel fine so I don't think it's that bad.",content,,
+248,20,low_095,T,"Well remember, your AC was high like I said earlier and that's a much better indicator than how you feel. So um, it showed that you were out of control. If you don't start making changes, you can permanently damage your eyesight, blood vessels, even have to have a front leg amputated",,low empathetic,low polite
+248,21,low_095,C,"Oh, well I'll definitely do something before it got that bad, but I'm not interested in taking those medications. I'll try to eat better or do something",afraid,,
+248,22,low_095,T,I don't think you realize how serious your disease is.,,low empathetic,low polite
+248,23,low_095,C,I don't see how I can be sick if I feel fine. I don't want to take medications.,afraid,,
+248,24,low_095,T,*Sigh* Just because you feel fine doesn't mean that you're healthy. Having diabetes affects you more than you realize and some people feel fine when they have a big ulcer on their foot.,,low empathetic,low polite
+248,25,low_095,C,"Well, I remember my doctor telling me something about the symptoms of high blood sugar like feeling shaky or tired, but I never felt shaky or tired.",afraid,,
+248,26,low_095,T,"Well, those are some symptoms of high blood sugar but you can have the high blood sugar without those symptoms. That's the whole reason for doing an AC, to determine if your blood sugar is out of control, and your AC showed that your blood sugar has been out of control.",,non empathetic,low polite
+248,27,low_095,C,"I get what you're saying, but I feel fine and I don't want to take something that's not going to make me feel any better. I mean, what if it makes me worse? When my grandfather was on heart medications, the levels got so high that he almost got a heart attack.",afraid,,
+248,28,low_095,T,"Heart medications and diabetic medications are very different. You can't generalize the experience your grandfather had to this medication, they're completely different. Will you at least try taking your medications?",,highly empathetic,highly polite
+248,29,low_095,C,"I don't know, I will think about it.",afraid,,
+248,30,low_095,T,"Alright, well we'll see you in a few months then. ",,non empathetic,low polite
+249,0,low_096,C,It calms my nerves. It makes me feel good.,content,,
+249,1,low_096,T,It calms your nerves and makes you feel good.,,low empathetic,highly polite
+249,2,low_096,C,I can't go without it.,grateful,,
+249,3,low_096,T,"OK Ms. Fisher listen to this, by continuing to smoke you are putting your body in a great amount of harm COPD, chronic bronchitis, pneumonia, asthma, all these other type of bad things. You know so why haven't you quit yet?",,low empathetic,low polite
+249,4,low_096,C,Because it's hard and I like it.,afraid,,
+249,5,low_096,T,I don't understand. What's so tough about it? Can't you understand that you are putting your body at great harm by continuing to smoke?,,non empathetic,highly polite
+249,6,low_096,C,I mean I guess so.,content,,
+249,7,low_096,T,You guess so. OK so good. So that means you want to quit now right?,,low empathetic,highly polite
+249,8,low_096,C,Yeah,sad,,
+249,9,low_096,T,"OK, good, good I'm glad to hear you say that. So this is what were gonna do. First, were gonna set a quit date. Next, I want you to go home and remove all the cigarettes in your surroundings. Like, as soon as you leave here. And then finally, I'm gonna give you this prescription for Chantix which you can take every day, and also these nicotine patches. Ok.",,highly empathetic,highly polite
+249,10,low_096,C,Yeah,sad,,
+249,11,low_096,T,"Ok, alright good. We'll set an appointment for you to come see me in another month. When we see you in another month you need to have quit smoking cigarettes because you know how bad it is for you. Alright? Alright, you can pick up the prescription from my nurse on your way out and then call me at the clinic if you have any questions. OK. Thank you so much it was good seeing you again. OK, Alright. Take care. Bye ",,highly empathetic,highly polite
+250,0,low_097,C,That's great.,grateful,,
+250,1,low_097,T,"However, I'm pretty concerned about something I'm noticing in your mouth. Actually, if you look up here... the roof of your mouth, I'm noticing a lot of irritation that's really consistent with tobacco use. And you had said on your form that you're not a tobacco user, so...",,non empathetic,low polite
+250,2,low_097,C,I don't...,afraid,,
+250,3,low_097,T,I'm just wondering what's going on.,,non empathetic,low polite
+250,4,low_097,C,I don't smoke cigarettes.,sad,,
+250,5,low_097,T,"OK. Well, as I said, there's a lot of irritation. In particular, like I was mentioning, up here in the roof of your mouth, it's turned really deathly white colored, and there's little red spots, and you probably didn't notice cause we don't spend a lot of time looking at the roof of our mouth. But you're really damaging this tissue in your mouth, which can really cause some severe problems in terms of your oral health. It's called, Nicotinex Domotitus, and this is something we don't see in any patients who don't use tobacco. So, maybe you're not smoking cigarettes. Are you smoking a pipe? Or cigars? Or, is there something else that..",,non empathetic,low polite
+250,6,low_097,C,Well...,sad,,
+250,7,low_097,T,"Could be contributing to this, because I don't know what else might be causing it.",,non empathetic,low polite
+250,8,low_097,C,"Well, no. Only thing... I've never smoked cigarettes, ever.",trusting,,
+250,9,low_097,T,Mmm hmm.,,non empathetic,impolite
+250,10,low_097,C,"Um, but, um, when um, when I got with my friends, um, we like to go to, you know, we like to go out to lounges...",sad,,
+250,11,low_097,T,Mmm hmm.,,non empathetic,impolite
+250,12,low_097,C,"And, um, you know, sometimes there are those... those, uh, nice young men that gift you different sorts of things, and we got some of those many, uh, cigars, that Swisher Sweets...",grateful,,
+250,13,low_097,T,Uh huh.,,low empathetic,low polite
+250,14,low_097,C,"They come in peach, and grape, and... and, you know, that's the only time that really, you know, I've ever really used anything that, that's got tobacco in it.",angry,,
+250,15,low_097,T,"OK. So, I think that's a pretty common misconception, because they're fruit flavored, people think they're OK. Those are really bad for you. Did you know that?",,low empathetic,highly polite
+250,16,low_097,C,"Really bad, but they're just little, mini little, cute little, girly cigars.",sad,,
+250,17,low_097,T,"Right. They're still cigars. And they're still tobacco. And so, they still cause lung cancer, oral cancer, emphysema. All those same kinds of things that you would see with cigarettes.",,non empathetic,low polite
+250,18,low_097,C,"Well, I only use 'em...",sad,,
+250,19,low_097,T,This is really important.,,highly empathetic,low polite
+250,20,low_097,C,"Just to relax. I mean, it's not like it's something that I would smoke twenty or thirty cigarettes a day. I mean, I only do it when we go out.",content,,
+250,21,low_097,T,"Uh huh. Well, that's, I mean, at least you're not doing that. So, that's good. But it's still causing a lot of problems, and as I said, I can see the... the evidence in the roof of your mouth. You're causing some serious damage. And this needs to stop.  Have you thought about quitting?",,non empathetic,highly polite
+250,22,low_097,C,"Well, I didn't really know I'd started.",sad,,
+250,23,low_097,T,What do you mean?,,non empathetic,low polite
+250,24,low_097,C,I didn't really think that it was anything more than just like social drinking. Just something that I do in a social setting when me and my friends go out to the bars.,sad,,
+250,25,low_097,T,"So, you're gonna quit then?",,low empathetic,low polite
+250,26,low_097,C,"Uhh, maybe.",hopeful,,
+250,27,low_097,T,"What do you mean, maybe? I just told you how bad it is for you. It's messing up your mouth. You're putting yourself at risk for all these other diseases. This is really important. You need to quit.",,low empathetic,low polite
+250,28,low_097,C,"Well, it's something that I'll have to think about.",afraid,,
+250,29,low_097,T,"What's there to think about? You said it's not, that... something you do all that often. Um, there's all these negative side effects. There's all these risks that you're putting yourself in.",,non empathetic,low polite
+250,30,low_097,C,"Well,it's just something that I do to relax, and I don't do it that often. And so, I probably could cut back.",content,,
+250,31,low_097,T,"OK, well that's a good start, but cutting back isn't gonna do it. If you actually quit the smoking, you can reverse all the damage you've done in your mouth, and you can stop yourself from... from being at risk for these other diseases. But, but as long as you're continuing to use these cigars, you're really putting yourself in a lot of danger.",,low empathetic,low polite
+250,32,low_097,C,"Well, I don't believe that they're cigars, and... what I do believe is that, it's a choice. And it's my right. And it's something that I choose to do. And so, I will think about cutting back. But I'm not at a point where I'm ready to do that, and I'm not really sure that I even believe that what you're telling me is real.",afraid,,
+250,33,low_097,T,"You're choosing to really damage your mouth, and actually it can cause problems with your teeth, too. I don't know if you've noticed your teeth might be getting yellower than they were before. That's another side effect. There are a lot of really negative things that go along with any tobacco use. Whether it's cigarettes, cigars, dip, chews, snuffs, snus, hookah, any of it. This is a really important decision that you're making, and you said it's your choice, but you're really choosing to make yourself sick, and potentially die.",,non empathetic,low polite
+250,34,low_097,C,"Well, it's something that I'll think about.",hopeful,,
+250,35,low_097,T,"Well, I appreciate you thinking about it. I hope you'll think about it really hard. You know, this is something that I'm gonna continue to ask you about, because it's something that really needs to change. ",,highly empathetic,highly polite
+251,0,low_098,T,Can I help you?,,highly empathetic,low polite
+251,1,low_098,C,"Uh yea, I just got off work and apparently they're going smoke free so I thought I'd stop by the pharmacy here and see what my options are. Some of my friends have tried nicotine patches and they say they work very well. I don't really wanna quit smoking, I just need something to get me through the day.",hopeful,,
+251,2,low_098,T,So you want nicotine replacement but you don't want to quit smoking?,,low empathetic,low polite
+251,3,low_098,C,"Maybe like, during the day nicotine replacement. Is that, I mean do you have anything like that?",hopeful,,
+251,4,low_098,T,"Yea, we don't really recommend that. The idea is that you would use the nicotine replacement to actually quit so then you wouldn't be smoking at work but you also wouldn't be smoking the rest of the time either.",,non empathetic,highly polite
+251,5,low_098,C,"Well I don't really want to quit, I mean I like smoking, I like going after work to have a beer with my friends, not smoke cigarettes. I mean, I know it's not really a big deal, cigarettes aren't that bad. I mean I know it's popular to say smoking is bad for you but ya know, I like it so I'm going to keep doing it.",trusting,,
+251,6,low_098,T,"Okay well smoking really is really bad for you, you know it causes things like lung cancer, emphysema, heart disease.",,low empathetic,low polite
+251,7,low_098,C,Yeah. Okay.,angry,,
+251,8,low_098,T,Oral disease.,,non empathetic,impolite
+251,9,low_098,C,"Oh well what are my options now? Assuming that I am right, what are my options?",hopeful,,
+251,10,low_098,T,"Well to be honest with you, you mentioned the patch, I can't recommend a patch to you if you're going to continue smoking that can actually be pretty dangerous for you. In order to advise you about this at all I need you to tell me a little bit more about your smoking history and how much you're smoking now.",,non empathetic,highly polite
+251,11,low_098,C,I smoke barely a pack a day. I mean I probably smoked about  or  years now. It's not really a lot of cigarettes but it's sorta hard to get through the day at work.,sad,,
+251,12,low_098,T,Okay well we actually consider  cigarettes a day to be a significant amount and in fact I would then recommend to you that you start on the highest dose of nicotine replacement.,,non empathetic,highly polite
+251,13,low_098,C,Sounds good to me. The more nicotine the better. Is there like gum or something? Could I chew it like while I'm in the office? That sounds pretty great. Do you have?,afraid,,
+251,14,low_098,T,"Well there are some products that you could use to take away some of your cravings, then probably the gum would be the best option for you. It's not something that you would continue to use continuously throughout the day however but gum is something you use just when you have a craving.",,highly empathetic,highly polite
+251,15,low_098,C,Oh. Okay. Well where is that?,angry,,
+251,16,low_098,T,"Well, we have that here but again but the idea would be for you to actually quit smoking.",,highly empathetic,low polite
+251,17,low_098,C,"Well, I'm probably not going to buy anything today. I mean I just came by to see what my options are. Thanks for the input. Do you have anything else? Do you have any other?",content,,
+251,18,low_098,T,Well.,,non empathetic,low polite
+251,19,low_098,C,Advice for me?,hopeful,,
+251,20,low_098,T,"Aside from the gum you could try the nicotine lozenge that would be another option for you, again that's not something you wanna use continuously throughout the day. The nicotine patch is the best for continuous nicotine replacement but again that's not something you can use while you're continuing to smoke.",,non empathetic,low polite
+251,21,low_098,C,"Oh well. Okay, well, thanks, I mean I guess that helps a little bit. Maybe I'll be back later. Thanks. ",grateful,,
+252,0,low_099,C,Yeah.,sad,,
+252,1,low_099,T,That's really a problem.,,non empathetic,impolite
+252,2,low_099,C,"Yeah, it's pretty stressful for both of us. He gets really upset.",sad,,
+252,3,low_099,T,"Well, one of the primary risk factors for multiple ear infections in kids is actually smoke exposure. Are you smoking?",,non empathetic,low polite
+252,4,low_099,C,"Yeah, I ...  Yeah, I do smoke, but I don't smoke around him. I try really hard not to smoke around him.",sad,,
+252,5,low_099,T,"Well, the fact that he's having these ear infections, is indicating to me that he is being exposed to smoke. And so, what can you tell me about that?",,non empathetic,highly polite
+252,6,low_099,C,"I ...  I don't know. I mean, I try really hard not to smoke around him. I don't smoke in the car, um, when he's home, I go outside to smoke. I just ...  I mean, I know it's bad, and I know it's bad for him, so I don't want him to be around it, so I try really hard.",sad,,
+252,7,low_099,T,"I really need you to quit smoking. Both for your health and for Aiden.  Do you know, smoking around your child is associated not only with ear infections,  it could get to the point where he'll have to put tubes in his ears pretty shortly here. Also things like vitamins C deficiency, cavities, like dental cavities, behavior problems, um, asthma, other upper respiratory infections. It's really putting him at a lot of risk. In additions to that, kids of smokers end up smoking themselves. Do you want him to grow up to be a smoker?",,non empathetic,low polite
+252,8,low_099,C,"No. But I don't smoke ...  I ...  I ...  I've thought about quitting, but it's just, it's really hard. So, I just don't know how to do it.",afraid,,
+252,9,low_099,T,"Well, now's the time to quit. It's really gotten to the point where you can't keep smoking. Not only for him, like I said, but also for you. You're putting yourself at risk for lung cancer, for Emphysema, for oral cancers, for heart disease. For all kinds of things.",,non empathetic,low polite
+252,10,low_099,C,"I know, I know. I've heard people tell me before. I've heard all that. I just  ...  don't know how to do it. How am I supposed to quit? It's so hard.",afraid,,
+252,11,low_099,T,"Well, there's all kinds of things you can use know. It's not as hard as it used to be. You can use nicotine replacement. There's patches, there's lozenges, there's gum. There's the inhaler. There's  nasal spray. We can talk about medications. You can try Chantix, you can try Zyban. There's quit smoking groups  you can go to. There's hotlines you can call ...",,highly empathetic,low polite
+252,12,low_099,C,I just don't have time for any of that ...,sad,,
+252,13,low_099,T,There's no reason why you shouldn't be able to quit. This is really important.,,highly empathetic,low polite
+252,14,low_099,C,"I understand that. I know it is ...  I mean, everybody has problems, right? It's just really, it's really really hard.",sentimental,,
+252,15,low_099,T,"Well, what can be more important to you than the health of your child?",,highly empathetic,low polite
+252,16,low_099,C,I don't know.,afraid,,
+252,17,low_099,T,I really need you to tell me that you're gonna quit smoking. This is really important.,,highly empathetic,highly polite
+252,18,low_099,C,"I'll, I'll, I'll go look at all those things and I'll find ...  I guess I'll try to find something, and I'll talk to my doctor about it.",hopeful,,
+252,19,low_099,T,"OK, well I think you really need to think about this seriously. Like I said, it's really putting yourself and your child in danger.",,non empathetic,low polite
+252,20,low_099,C,OK. Whatever. OK.,content,,
+252,21,low_099,T,OK,,non empathetic,low polite
+253,0,low_100,T,"Uh, Patricia...",,non empathetic,low polite
+253,1,low_100,C,No. It's Alexis miss.,sad,,
+253,2,low_100,T,"Ah Alexis. And... Yes, of Course. Yes.  Yes.    What can I do for you?",,highly empathetic,low polite
+253,3,low_100,C,"Uh, I'd just like to speak to you about some personal problems.",sad,,
+253,4,low_100,T,"Ah, personal problems? Oh is this going to be about something serious?  Come sit.  Come. Come.  There we go.  That's it. That's it. Alright.  Umm...I'm going to sit here.  Yes.  What's your problem?",,non empathetic,low polite
+253,5,low_100,C,"Well Miss, Um I don't know how to say this.  Miss, I think I might be pregnant.",afraid,,
+253,6,low_100,T,"Pr...whooo  You said you might be pregnant?  Uh my goodness alive.  Okay.  Alright.  No, We can deal...  Now we...alright, now we can deal with this.  Umm...okay, just back up.  Tell me, tell me, tell me how it happened.",,low empathetic,highly polite
+253,7,low_100,C,"Well, Miss, it's my family Miss.  My mom and my dad aren't in a very good relationship mostly.  Then,l ike and then like I met my boyfriend and then and then like I also am not on the pill, Miss and then like you know stuff happens.  And now I think I might be pregnant.",afraid,,
+253,8,low_100,T,Now are you on the pill?,,non empathetic,low polite
+253,9,low_100,C,No Miss. Like I just said I'm not on the pill.,sad,,
+253,10,low_100,T,"You're not on the... You're not on the pill?  What are you thinking?  What? Is your, is your head not attached to your body or something? Eh?",,low empathetic,low polite
+253,11,low_100,C,Ahhh.,content,,
+253,12,low_100,T,The nerve.  Going all willy nilly with some guy and you're not even on the pill.  What do you? What do you even? Uh these children now-a-days. It's so ....,,non empathetic,low polite
+253,13,low_100,C,"I know Miss.  It's just that, like my family, you know Miss. (crying) It will kill them. (crying)",sad,,
+253,14,low_100,T,"Okay.  So just hold on, hold on. Ya. Lulu, I just got Alexis here.  She thinks she's pregant.  I'm going to need about ten minutes. Okay? Ten minutes.  Alright.  Great.  Yes. Okay.  Sorry.  Sorry.  Yes.",,non empathetic,highly polite
+253,15,low_100,C,"Well Miss, like I know I know I was stupid ma'am.  It's just like",sad,,
+253,16,low_100,T,"Stupid? You're stupid? Sheesh.  I don't know.  I just don't know. You know you would swing the, the...  You don't even know how, how difficult life could be, yeah?  Life, my girl, life is tough.  I mean, you just saw, I've got meetings to go to. I've got things to do in the evenings.  Life is difficult my girl.  You've got to take...You've got to learn to take responsibility.  My life.   If you knew how difficult my life can be, yeah.",,low empathetic,highly polite
+253,17,low_100,C,I know life is hard. I love him Miss. He's the only thing I've go and I don't want to lose him because of this whole thing.,trusting,,
+253,18,low_100,T,"Oh please. You think you...you think you have him? You don't have him.  Let me tell you a thing girl.  You don't have that guy. Uh, huh.  I know his type.  He's out there.  He's out there with the other girls and he's probably impregnated about three by now. Huh? You're just one of the lot. Don't think you've got him. You don't have him.",,low empathetic,highly polite
+253,19,low_100,C,"Miss, don't tell me that. I don't want to tell anyone this because I haven't told him.",sad,,
+253,20,low_100,T,"Okay, just hold on, hold on.",,highly empathetic,low polite
+253,21,low_100,C,I haven't told him.,sad,,
+253,22,low_100,T,"Okay. Sht. Wants to save him. Um.  Okay, Alright. I know what. I know what to do.  You just leave everything to me.  You don't worry.  Alright.  Look.  Look. Don't, you don't worry about your family.  You don't, you don't, don't tell your family. No. That's, that's what you must do.  You don't tell your fam...what I'll do, here we go.  Here's a name of a person and a telephone number.  You phone them.  Phone them. That's it.  That's it.  You keep that number.  Don't worry about your family okay.",,low empathetic,low polite
+253,23,low_100,C,"Well Miss, I don't understand.  In class you said that when something important happens then you must tell your family. You know how bad this is.",sad,,
+253,24,low_100,T,"What, what are you saying? Are you trying to say that I'm wrong?  Uh, heh, don't, don't do that.  Don't do that. I'm not wrong gir. I know what I'm doing. You just, you find that number and, and, and they will, they will help you. Don't you question what I'm doing.  Alright. Okay.  You find that number.",,low empathetic,highly polite
+253,25,low_100,C,Of course I'm not.,sad,,
+253,26,low_100,T,All the best. All the best. Okay. That's it.  That's it. There you go.,,highly empathetic,highly polite
+254,0,low_101,C,"No, not really.",sad,,
+254,1,low_101,T,"Why, what happened?",,non empathetic,impolite
+254,2,low_101,C,"Well, since I had a relapse back in the spring, I've noticed I've had a lot more trouble with my walking, and a lot of problems with my memory. And I'm just tired all the time.",angry,,
+254,3,low_101,T,Well how long ago did this all begin?,,non empathetic,low polite
+254,4,low_101,C,After that relapse about two or three months ago.,afraid,,
+254,5,low_101,T,Well have you been taking your Rubiff reguarly?,,non empathetic,low polite
+254,6,low_101,C,"No, not really. I don't feel like it's helping much.",sad,,
+254,7,low_101,T,Well when did you stop taking it?,,low empathetic,low polite
+254,8,low_101,C,"Well, first I started by just stretching it out. I was only taking it every three to four days, and then I totally stopped at about a month ago.",sad,,
+254,9,low_101,T,So your symptoms may be because you stopped your drug?,,non empathetic,low polite
+254,10,low_101,C,"I don't think so. I didn't stop taking it until after my walking started to go. After that I did everything you told me to do. I took my shots religiously, a lot of help it's been.",trusting,,
+254,11,low_101,T,I think you should go back on the drug. We know from clinical trial that it helps to slow progression. Going off it is only going to make things worse.,,highly empathetic,low polite
+254,12,low_101,C,"I don't know if I believe that. I mean if it does, it hasn't helped me.",afraid,,
+254,13,low_101,T,"Well, the data's clear! I think the first thing we need to do is get you back on the drug. We also need to change the way you're thinking about your MS and the drug. Drug's not a cure. It's only gonna slow progression. You know if you weren't on this drug, your symptoms would've come back sooner. And you need to think of the last two years that you've had without major symptoms as a success.",,highly empathetic,low polite
+254,14,low_101,C,"Well, that's hard to do when you feel like I do.",sad,,
+254,15,low_101,T,"I know, I see this all the time with my patients.",,highly empathetic,low polite
+254,16,low_101,C,So is this normal?,afraid,,
+254,17,low_101,T,"I wouldn't say ""normal"". MS is different for everyone.",,non empathetic,low polite
+254,18,low_101,C,So what about me?,afraid,,
+254,19,low_101,T,Well that's hard to say. So I'll see you in three months and you can start going back on the drug. Any questions?,,non empathetic,highly polite
+254,20,low_101,C,No,angry,,
+255,0,low_102,T,"Good afternoon, this is April from the pharmacy, could I speak to Faith please?",,highly empathetic,highly polite
+255,1,low_102,C,This is faith.,trusting,,
+255,2,low_102,T,I see you haven't picked up your prescription this month. Are you having some problems with it?,,non empathetic,low polite
+255,3,low_102,C,Are you talking about my Avenex?,afraid,,
+255,4,low_102,T,Yeah.,,low empathetic,low polite
+255,5,low_102,C,"Well, I haven't been taking it for the last couple of weeks. To be honest, I took it for a year because my neurologist told me I should, but lately I haven't seen any reason to continue doing it because I don't feel better and I don't think I'm doing that badly.",content,,
+255,6,low_102,T,Who' your doctor?,,non empathetic,impolite
+255,7,low_102,C,"Dr. Livingston. He' my neurologist. I think I remember him saying something about it slowly the progression, but frankly April, I don't know what that means. He doesn't explain things very well, and if I ask him, he doesn't take the time to answer my questions.",afraid,,
+255,8,low_102,T,Have you had any symptoms lately?,,non empathetic,low polite
+255,9,low_102,C,"No, not really.",sad,,
+255,10,low_102,T,Do you have any problems taking the drug?,,non empathetic,low polite
+255,11,low_102,C,"I'm not crazy about taking the shots, but that's not the issue.",afraid,,
+255,12,low_102,T,Are you having problems paying for it because we can help you with that.,,highly empathetic,low polite
+255,13,low_102,C,"No, my HMO covers it.",grateful,,
+255,14,low_102,T,I'm not sure I understand what the problem is.,,non empathetic,low polite
+255,15,low_102,C,"Well, like I said, I don't see the point of taking this drug. What's it doing for me?",afraid,,
+255,16,low_102,T,"As it says in the patient education kit you received, it reduces the risk of a second attack by over forty percent. The clinical data is very strong.",,highly empathetic,low polite
+255,17,low_102,C,"Well, now you're sounding just like my neurologist. I still don't understand what that means.",afraid,,
+255,18,low_102,T,"Well, Avonex provides a thirty seven percent reduction in risk of progression to sustain disability in two years and a forty-four reduction in risk of developing a second relapse in up-to three years.",,highly empathetic,low polite
+255,19,low_102,C,Okay?,angry,,
+255,20,low_102,T,Are you interested in reordering your prescription?,,highly empathetic,low polite
+255,21,low_102,C,"No, not really, I, I think I want to think about this for a while.",afraid,,
+255,22,low_102,T,It's important that you stay on it. There aren't really many options for MS.,,highly empathetic,low polite
+255,23,low_102,C,"Well, maybe we have to wait until something better comes along.",hopeful,,
+255,24,low_102,T,My expert opinion is that you stay on the medication until it does. Until newer drugs are developed this is the bet e have.,,highly empathetic,low polite
+255,25,low_102,C,Well that's depressing.,sad,,
+255,26,low_102,T,"Well, only if you think about it that way.",,non empathetic,low polite
+255,27,low_102,C,"Yeah, okay. So are we done?",content,,
+255,28,low_102,T,Unless there's anything else I can do to help.,,highly empathetic,low polite
+255,29,low_102,C,"No, thank, bye.",sad,,
+255,30,low_102,T,"Okay, bye bye. ",,low empathetic,low polite
+256,0,low_103,C,Right.,angry,,
+256,1,low_103,T,And now she's coughing. Um.,,highly empathetic,low polite
+256,2,low_103,C,Yes,surprised,,
+256,3,low_103,T,Sounds like post-nasal drip. I think it's probably just a virus.,,non empathetic,low polite
+256,4,low_103,C,Okay.,angry,,
+256,5,low_103,T,"Um, and I don't think she needs antibiotics, it's not going to do anything.",,highly empathetic,low polite
+256,6,low_103,C,"Good, okay.",content,,
+256,7,low_103,T,"But uh, and she'll probably be better by the weekend.",,highly empathetic,low polite
+256,8,low_103,C,Good.,content,,
+256,9,low_103,T,"Um, before we finish up today I think we really need to talk about Ganesa weight.",,non empathetic,low polite
+256,10,low_103,C,Okay.,angry,,
+256,11,low_103,T,"Um, according to the chart she is has a BMI of  which is at the  percentile, which is considerably overweight and we need to think about getting her weight down. Um, does she eat healthy does she, is she pretty active?",,non empathetic,low polite
+256,12,low_103,C,"Okay, well, I don't know anything about this, um, BMI or  percentile, but I mean, she's a big boned girl. All of the girls in our family are. I mean she's active, she's growing. She looks healthy to me.",afraid,,
+256,13,low_103,T,"Well, I think we need to check her cholesterol and her triglycerides. Cus, um, at this BMI, they, um, there might be some problems already, some serious problems, and if we look at these labs now, you know maybe you'll start to see that this is a serious problem.",,non empathetic,low polite
+256,14,low_103,C,"Okay, I don't know about all that, but I just brought her in here for a cough. Plus, you know, Ganesa hates needles and she was proud that there was no needles today.",joy,,
+256,15,low_103,T,"Well, I guess the blood work can wait, but we're going to have to get it done within the next year. Let's talk about her exercise, does she get enough aerobic exercise?",,non empathetic,low polite
+256,16,low_103,C,"Well, yeah, at school and on weekends, she sometimes plays with her friends, but she's very active, she, she's strong.",joy,,
+256,17,low_103,T,"Okay, okay, well what about her diet. Does she eat a lot of junk food or drink soda?",,non empathetic,low polite
+256,18,low_103,C,"Well, we eat together a lot. And I mean, we only go to the fast food restaurant a few times a week. And she always drinks lemonade, never soda.",trusting,,
+256,19,low_103,T,"Okay, well, um, you're going to have to cut the fast food down to no more than once a week. And lemonade, it's as bad as soda, it's full of sugar, so you're going to have to get her to drink more water.",,non empathetic,low polite
+256,20,low_103,C,"Well, with the, the stress on my job, and, and, working long hours, I mean, sometimes we only get to eat fast food. And, and, she won't drink water.",angry,,
+256,21,low_103,T,"Oh, Okay, well, do what you can. And tell me about her T.V. Does she watch a lot of T.V.?",,highly empathetic,low polite
+256,22,low_103,C,"Well I mean a few hours after school. I mean, more than what I would like. I mean, I try, but no kids don't listen.",sad,,
+256,23,low_103,T,"Okay, well, the American Academy Pediatrics recommends no more than two hours a day, so I think we're going to have to get that down to below two hours.",,non empathetic,low polite
+256,24,low_103,C,"Well, that's going to be very difficult because, I, I need that time so that I can catch up on.",afraid,,
+256,25,low_103,T,"Okay,",,non empathetic,low polite
+256,26,low_103,C,Um,angry,,
+256,27,low_103,T,"well, listen um, we're going to need to finish up here. I'd really like to see Ganesa lose three to five pounds before we see her again. So, let me just kinda go over what we talked about. More water, less junk food, less fast food and uh, cut down on the TV. Does that sound okay?",,highly empathetic,highly polite
+256,28,low_103,C,Okay.,angry,,
+256,29,low_103,T,"Okay, Thanks for coming in.",,highly empathetic,highly polite
+256,30,low_103,C,Thanks,grateful,,
+257,0,low_104,C,Hi.,sentimental,,
+257,1,low_104,T,How are you?,,highly empathetic,impolite
+257,2,low_104,C,"Yeah, I've been sitting here saying that word.",sad,,
+257,3,low_104,T,"Well, I don't know last time I called you and then the phone is not ringing and I'm not sure.  I'm glad you called.",,non empathetic,highly polite
+257,4,low_104,C,Yup.,angry,,
+257,5,low_104,T,And set up an appointment with me.,,highly empathetic,impolite
+257,6,low_104,C,"Yup, for the last three days, we've had storms and it's been cloudy and I have not had no signal on this phone until today.",angry,,
+257,7,low_104,T,Wow.,,highly empathetic,low polite
+257,8,low_104,C,Because I had four or five people have called me.,afraid,,
+257,9,low_104,T,Really?,,non empathetic,impolite
+257,10,low_104,C,"Yeah, and I just didn't get it.",sad,,
+257,11,low_104,T,"Well, before we begin I just want to remind you that all calls at Aetna is subject to be monitored and recorded for the quality assurance, okay.",,non empathetic,highly polite
+257,12,low_104,C,"Yup, yes ma'am.",confident,,
+257,13,low_104,T,"And then also about genetic information non discrimination act just a reminder too that because of legislation prohibits gathering genetic information so when you answer my question you don't have to include any family medical history or any information related to genetics, okay?",,highly empathetic,low polite
+257,14,low_104,C,Uh-huh.,angry,,
+257,15,low_104,T,So how you been since I spoke to you last time?,,highly empathetic,low polite
+257,16,low_104,C,"Oh, I've been fine.  I've been to the doctor; I went for my six months checkup.",content,,
+257,17,low_104,T,"Okay, when was that?",,non empathetic,low polite
+257,18,low_104,C,rd of June.,afraid,,
+257,19,low_104,T,"Okay, what the doctor say?",,non empathetic,low polite
+257,20,low_104,C,"That everything looked good, they took my blood and I haven't heard a thing from them.  Most times they usually send me something if something is wrong.",afraid,,
+257,21,low_104,T,"Usually, yeah, if you don't hear from the doctor that means good news isn't it?",,highly empathetic,highly polite
+257,22,low_104,C,"Yeah, yeah.",sad,,
+257,23,low_104,T,Because if something's wrong most definitely they will call you.,,highly empathetic,low polite
+257,24,low_104,C,"Uh-huh, yup, my six month checkup.",afraid,,
+257,25,low_104,T,So you do all the cholesterol check and everything?,,highly empathetic,low polite
+257,26,low_104,C,I don't do nothing.,content,,
+257,27,low_104,T,I mean the doctor draws your blood work.,,non empathetic,low polite
+257,28,low_104,C,"Yeah, yeah, they drew all the blood, I think they draw two vials of blood.  He said that they would notify me within about three or four days, but I never have, they usually send a piece of paper stating that everything was okay, but I didn't get nothing this time, figured it was okay.",afraid,,
+257,29,low_104,T,"Well, I just want to ask you a question this time.  I want to ask you about the tobacco that you've been using, so what kind of tobacco product you use?",,non empathetic,highly polite
+257,30,low_104,C,This is a loose leaf.,sad,,
+257,31,low_104,T,"Okay, like a chewing tobacco?",,non empathetic,low polite
+257,32,low_104,C,"Yes, ma'am.",confident,,
+257,33,low_104,T,So you used the last four weeks?,,non empathetic,low polite
+257,34,low_104,C,I what?,afraid,,
+257,35,low_104,T,You have been using the last four weeks?,,non empathetic,low polite
+257,36,low_104,C,"Yeah, I've been using tobacco for the last four weeks.  Sixty years I've been doing that.",sad,,
+257,37,low_104,T,"Sixty years, have you been to the dentist to have them check your mouth?",,non empathetic,low polite
+257,38,low_104,C,I've got dentures.  I've had dentures ever since I was about  years old.,confident,,
+257,39,low_104,T,Do you see a dentist?,,non empathetic,impolite
+257,40,low_104,C,"No, I don't go to a dentist.",sad,,
+257,41,low_104,T,So you have not seen a dentist for how many years?,,non empathetic,low polite
+257,42,low_104,C,"Oh, shucks, I ain't seen a dentist since I had my teeth pulled out, I reckon.  That's probably - years ago.",afraid,,
+257,43,low_104,T,"You're kidding me, really,  to  years ago, oh my gosh.  You're probably the only person I know that don't see the dentist.",,non empathetic,low polite
+257,44,low_104,C,"If you've got dentures, what's the use of going to the dentist if you've got dentures?",afraid,,
+257,45,low_104,T,"Well, usually dentists will check your mouth.  Sometimes if you chew tobacco you have a chance that there might have some growth or something abnormal in your mouth and you don't know, you see.",,non empathetic,low polite
+257,46,low_104,C,"Well, most of the time if I do, I usually tell, I can tell if something's maybe wrong with my mouth.  I usually take my dentures out and let them soak; I'll wash them up with warm salt water and stuff like that before I go to bed.",confident,,
+257,47,low_104,T,So you kind of take care of your mouth?,,highly empathetic,low polite
+257,48,low_104,C,Well sorta.  I think I've done pretty good.,content,,
+257,49,low_104,T,But you only use the leaf tobacco; you're not smoking or anything.,,low empathetic,low polite
+257,50,low_104,C,"No, I don't smoke; I never did take up the habit of smoking.",trusting,,
+257,51,low_104,T,"But, how often do you chew tobacco a day?",,low empathetic,impolite
+257,52,low_104,C,All the time.,angry,,
+257,53,low_104,T,All day long?,,non empathetic,impolite
+257,54,low_104,C,"All the time, all day long, all day long, from the time I get up, time I go to bed.",angry,,
+257,55,low_104,T,So how much does that cost you?,,non empathetic,impolite
+257,56,low_104,C,"Um, this tobacco it probably cost me maybe $. a day.",angry,,
+257,57,low_104,T,"So basically, you're not planning on cutting down; you are just going to do the same thing?",,non empathetic,low polite
+257,58,low_104,C,"___________if it starts to gets to bothering me, I'd probably cut down.",angry,,
+257,59,low_104,T,Okay.,,non empathetic,low polite
+257,60,low_104,C,"So far I have no problem.  I use to chew ______________ tobacco, back when they use to have ___________ tobacco, years ago, I use to, when I first started chewing I was chewing _____________.",content,,
+257,61,low_104,T,Have you ever used any type of medication or any nicotine to try to stop chewing tobacco?,,low empathetic,low polite
+257,62,low_104,C,"No, ma'am.",sad,,
+257,63,low_104,T,"No, okay.",,non empathetic,low polite
+257,64,low_104,C,"No, ma'am.  I haven't found no reason to.",trusting,,
+257,65,low_104,T,And your doctor knows about it that you chew tobacco?,,low empathetic,low polite
+257,66,low_104,C,"Yes, yes, he does.",joy,,
+257,67,low_104,T,And you have not been checked with ultrasound or anything like that?  Have you ever had an abdominal aortic aneurysm test?  Probably not.,,non empathetic,low polite
+257,68,low_104,C,"No, I don't think so.",afraid,,
+257,69,low_104,T,"If you not see a dentist, I bet you.",,non empathetic,low polite
+257,70,low_104,C,"No, I hardly ever been to a doctor.  I don't go to no dentist.  I don't go unless something bothers me.  If I get sick or something, I'll go to a doctor, as long as I stay healthy and able to work and get out here and go, I don't go see a doctor.  My wife, I tell you she goes sometimes two or three times a month.",trusting,,
+257,71,low_104,T,Did your wife use any tobacco products?,,non empathetic,low polite
+257,72,low_104,C,She smokes.,angry,,
+257,73,low_104,T,"She use to smoke, okay.",,low empathetic,low polite
+257,74,low_104,C,"She smokes, smokes like a freight train.",angry,,
+257,75,low_104,T,"Well, you know, a lot of time just like, what's his name Georg Burns, I think he smoke or something all his life right, and, but even though she smoked you didn't want to smoke you just only want to chew?",,non empathetic,highly polite
+257,76,low_104,C,"Well, yes.  I worked in the cigarette factory for  years?",content,,
+257,77,low_104,T,"Oh, you did.",,highly empathetic,low polite
+257,78,low_104,C,"Yeah, making cigarettes and I never did really take up the habit of smoking.  Yeah, all I done was chew tobacco.",sad,,
+257,79,low_104,T,"For  years, okay.",,highly empathetic,low polite
+257,80,low_104,C,"Yeah, well  years.",content,,
+257,81,low_104,T,years.,,non empathetic,impolite
+257,82,low_104,C,"The Reynolds Tobacco Company and I really didn't want to go to work then, but my wife made me.",sad,,
+257,83,low_104,T,"Well, your wife make you, how did she make you?",,highly empathetic,low polite
+257,84,low_104,C,"Well, see I was working for myself and I was , about  years old when I work to work and I was doing some work for a guy and he was one of the big wheels at and he just asked me one day if I wanted to work and I told him no.  I was an outside person, I didn't want to work in a factory and I told my wife, and she said your crazy, she said you better go to work and get them benefits and insurance and all that, so I waited about two months and I went down and they hired me before I went out the door.",sad,,
+257,85,low_104,T,"Well, it is my job that I have to inform you about the risk of smoking or not smoking but chew tobacco the risk is to get a sore or ulcer in your mouth you may not know because sometimes it might start in some area that you cannot feel, okay.  So, but when in doubt you do see the doctor you can always go to that doctor that check your lab and have them see just to be sure whenever something happen, okay.",,non empathetic,low polite
+257,86,low_104,C,"Yeah, whenever something happens I'll go.",trusting,,
+257,87,low_104,T,"Yeah, and just to make sure that because you know why if early early detection is much better then when you do them late.",,highly empathetic,low polite
+257,88,low_104,C,I understand that.,trusting,,
+257,89,low_104,T,"Because when I use to work at cancer hospital and I know that have a cancer in the mouth it just not a pleasant thing.  It affects a lot of eating and things like that, you know, and if probably you have cancer in the lungs, right, you can eat, but cancer in the mouth, it's just very difficult.",,non empathetic,low polite
+257,90,low_104,C,Yup.,angry,,
+257,91,low_104,T,"I just want to let you know that at least check your mouth, if you don't want doctor check you can check it and then you can examine yourself, you know, do your, do your gargle and things like that to kind of keep, you know, keep, because I'm a nurse and I've seen it and I just think like oh, my gosh, you know, if you have something wrong in the mouth, it's probably the most devastating because we have to eat food and when you cannot food it makes it so difficult.",,highly empathetic,highly polite
+257,92,low_104,C,"Well, if I didn't have to eat I wouldn't have to try to lose weight.",sad,,
+257,93,low_104,T,You have a problem with weight gain?,,low empathetic,low polite
+257,94,low_104,C,"Not really, I usually stay about the same weight about all the time.  I'm somewhere around  to , somewhere along in there.  I gain more weight in the wintertime because I don't work as much.  I'm always sitting around and stuff like that, but in the summertime, I get out and work and sweat it all off and all that.  Most of the time, I usually lose a little bit of weight in the summertime.",confident,,
+257,95,low_104,T,"Yeah, and you play golf.",,highly empathetic,low polite
+257,96,low_104,C,"Yes, I play golf, but I haven't had much of a golf season this year.  I've been a working too hard.",sad,,
+257,97,low_104,T,"Well, and another thing, you know, you can think about because right now you use them all the time, you know, sometime even though you quit just a little bit or something like that it could help too.  So think about that okay and then I sure appreciate you calling I always enjoy talking to you.  You always have something to tell me like, you know, how, a lot of times people don't think about taking something to kind of help with your acid and stuff like that, you have a lot of knowledge in some way, the old fashion way.",,highly empathetic,highly polite
+257,98,low_104,C,"Well, I guess that just comes from my family.",sad,,
+257,99,low_104,T,"From your family, did your family smoke?",,non empathetic,low polite
+257,100,low_104,C,"My family history and stuff like that, I don't know, I think my family was __________ like that.  They never did really get much sickness and stuff like that.",content,,
+257,101,low_104,T,They work hard.,,highly empathetic,low polite
+257,102,low_104,C,"Yeah and always worked hard and stuff.  I can usually tell when I feel bad, if I feel bad, I usually try to work on myself for a few days and if I don't get better I go to the doctor.",sad,,
+257,103,low_104,T,"Yeah, in a lot of old days that's how people do it.",,non empathetic,low polite
+257,104,low_104,C,Yeah.,sad,,
+257,105,low_104,T,"You know, you not depend on with a lot of medication like what we do now.",,low empathetic,low polite
+257,106,low_104,C,"Yeah, I know it.  Back in the early 's people didn't go to the doctor hardley they used they're own remedies and stuff like that.",confident,,
+257,107,low_104,T,"A lot of old remedies back then, you know, that people do and people use.",,non empathetic,low polite
+257,108,low_104,C,"Yeah, and I still use some of that.  I still drink my vinegar.",sad,,
+257,109,low_104,T,Your garlic and all that stuff.,,non empathetic,low polite
+257,110,low_104,C,Yeah.,sad,,
+257,111,low_104,T,And you take niacin.,,low empathetic,impolite
+257,112,low_104,C,That keeps me from going to a doctor.,afraid,,
+257,113,low_104,T,"Yeah, and I think, you know, just have to kind of make some sense about this okay and then I will call you next time.  I'd like to ask you a question about your diabetes.",,highly empathetic,highly polite
+257,114,low_104,C,"Diabetes, as far as I know, I reckon my diabetes is good.  I don't check it or nothing.",content,,
+257,115,low_104,T,"Okay.  I have spoke to many people that they don't check too, it doesn't surprise me now when you say that.  But anyway, let me go ahead; look to see what day I can call you okay?",,non empathetic,highly polite
+257,116,low_104,C,"Have you got the phone number to the house, the house phone?",angry,,
+257,117,low_104,T,"Let me take a look to see what we have.  Well, the number I dial now what is this number?",,non empathetic,low polite
+257,118,low_104,C,This is the cell phone.,sad,,
+257,119,low_104,T,"Okay, the cell let me look to see if I have ... .  Let me take a look at my record.",,non empathetic,low polite
+257,120,low_104,C,"I called today, this evening.",sad,,
+257,121,low_104,T,Yes.,,non empathetic,low polite
+257,122,low_104,C,To set up this appointment and I give the young lady the number for the house just in case ... .,afraid,,
+257,123,low_104,T,"Okay, the number I have is.",,non empathetic,low polite
+257,124,low_104,C,"Yeah, you can call the house number, if you can't get me on the cell phone.",trusting,,
+257,125,low_104,T,"Okay, all right, I will do that.  Call the house that way I won't miss you.",,low empathetic,highly polite
+257,126,low_104,C,"All right, more likely you'll probably catch me on that.  So if you're having bad weather you won't catch me on the cell phone.",sad,,
+257,127,low_104,T,That's true and that's true.  Let me make an appointment to call you back on July .,,highly empathetic,low polite
+257,128,low_104,C,July .,angry,,
+257,129,low_104,T,It's Friday.,,non empathetic,impolite
+257,130,low_104,C,"Oh, let's see, make it late.",sad,,
+257,131,low_104,T,How late?,,non empathetic,impolite
+257,132,low_104,C,Probably around  or so.,afraid,,
+257,133,low_104,T,Like today?,,non empathetic,low polite
+257,134,low_104,C,"Like today, I'm more likely to be here.",hopeful,,
+257,135,low_104,T,"Well on the th I can't call you at, how about, let me take a look some other day.",,highly empathetic,low polite
+257,136,low_104,C,My wife just mentioned that our son is coming in from the military and he'll be here that week.,surprised,,
+257,137,low_104,T,"How about on the th, Monday?",,non empathetic,impolite
+257,138,low_104,C,Monday.,afraid,,
+257,139,low_104,T,On the th yes.,,highly empathetic,low polite
+257,140,low_104,C,Okay.,angry,,
+257,141,low_104,T,I can call you anytime you want me to.,,highly empathetic,low polite
+257,142,low_104,C,"Well, you can call me probably; I don't reckon we'll be going off on a Monday, most of the time we might be gone on a Friday or a Saturday.",afraid,,
+257,143,low_104,T,So th would be good on Monday?,,highly empathetic,low polite
+257,144,low_104,C,th would be probably be better.,hopeful,,
+257,145,low_104,T,How about like  your time?,,highly empathetic,low polite
+257,146,low_104,C,Okay.,angry,,
+257,147,low_104,T,okay?,,non empathetic,low polite
+257,148,low_104,C,"Yeah, they usually call me and remind me to keep my appointment.",angry,,
+257,149,low_104,T,Yes.,,non empathetic,low polite
+257,150,low_104,C,"But, you know, things could come up.",hopeful,,
+257,151,low_104,T,"Well, I will send a reminder call two days before our appointment, okay.  But since being on the weekend, th, let me see, you'll probably get the reminder call probably maybe on the th.",,non empathetic,low polite
+257,152,low_104,C,Okay.,angry,,
+257,153,low_104,T,"Okay, on the th and then you do have my number.",,low empathetic,low polite
+257,154,low_104,C,"Yes, ma'am.",confident,,
+257,155,low_104,T,"And I sure appreciate your time calling me so that way I get to talk to you and then, you know, I always enjoy talking to you.",,highly empathetic,highly polite
+257,156,low_104,C,"I enjoy talking to you.  I've been trying to, me and my wife and I have been, she's been out here trying to teach me how to pronounce your name.",hopeful,,
+257,157,low_104,T,You did great.  I mean you did great.  It's not hard.,,highly empathetic,highly polite
+257,158,low_104,C,"Well, if I talked to you, if I would talk to you all the time now I could get use to it.",sad,,
+257,159,low_104,T,"Well, you do talk to me all the time, what you talking about.  I've been talking to you for so many months now.  Just like you read it, if you just read like, you know, kind of break it down into the three syllables.",,non empathetic,low polite
+257,160,low_104,C,She underlined it for me.,grateful,,
+257,161,low_104,T,"Well, don't call me by a different name, I might not answer you.  I might not know my name, you know.  That's not my name.",,non empathetic,highly polite
+257,162,low_104,C,Oh gee.,angry,,
+257,163,low_104,T,What is your wife's name?  That's a beautiful name.,,highly empathetic,low polite
+257,164,low_104,T,See I can call her she can call my name.,,low empathetic,low polite
+257,165,low_104,C,"Yup, yup.  She said her momma named her you know when they used to have what was it a song or something they were having a donkey named Josephine?",sad,,
+257,166,low_104,T,So how many children do you have?,,non empathetic,impolite
+257,167,low_104,C,I have four children.  I've got three daughters and one son and I've got  grandchildren,sentimental,,
+257,168,low_104,T,"Wow, seven.",,highly empathetic,low polite
+257,169,low_104,C,"Three, four great grandchildren.",hopeful,,
+257,170,low_104,T,"Well, they add up quick, you know.",,highly empathetic,low polite
+257,171,low_104,C,Yeah.,sad,,
+257,172,low_104,T,"And then, and then, you've got a hard time keep track of them.  What's their name and all that.",,non empathetic,impolite
+257,173,low_104,C,"Yeah.  Which one, the grandchildren?",sentimental,,
+257,174,low_104,T,Grandchildren.,,highly empathetic,impolite
+257,175,low_104,C,The grandchildren is..,sentimental,,
+257,176,low_104,T,Oh wow.  You're doing good.  You remember.,,highly empathetic,highly polite
+257,177,low_104,C,I've got one new grandchild probably maybe three weeks old and I haven't seen it yet.  They're in the military and I haven't learned his name yet.,afraid,,
+257,178,low_104,T,"Well, you know, you're doing good but don't forget what we talked about today, okay, about your chew tobacco and your mouth and the next month I'm going to talk about your blood sugar, okay.",,non empathetic,highly polite
+257,179,low_104,C,Blood sugar.  Okay.,sad,,
+257,180,low_104,T,All right.  Thank you very much and say hello to your wife for me.,,highly empathetic,highly polite
+257,181,low_104,C,"Alrighty, I sure will.",confident,,
+257,182,low_104,T,And I'll talk to you next month and I'll send you the reminder call okay?,,highly empathetic,low polite
+257,183,low_104,C,"Okay, alrighty.",angry,,
+257,184,low_104,T,"Thank you so much for calling me back, I sure appreciate it and you have a wonderful ... .",,highly empathetic,highly polite
+257,185,low_104,C,I enjoy talking to you.,confident,,
+257,186,low_104,T,And you have a wonderful month.,,low empathetic,highly polite
+257,187,low_104,C,"Yeah, thank you and I hope you do too.",grateful,,
+257,188,low_104,T,"I sure will, thank you, bye-bye, goodnight.",,highly empathetic,highly polite
+257,189,low_104,C,"Bye-bye, goodnight. ",sad,,
