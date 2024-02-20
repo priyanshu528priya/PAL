@@ -3,7 +3,7 @@ This repository contains the code and dataset for our paper titled [PAL to Lend 
 
 ## Code
 
-The folder CELDM and PAL contains the code for the proposed model.
+The folder PAL contains the code for the proposed model.
 
 ## Dataset Access Request
 
